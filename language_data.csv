@@ -7,15 +7,15 @@ aashaadha,san,Sanskrit,Other,9
 ab,egy,Egyptian (Ancient),Other,2
 ababil,ara,Arabic,Arabic,6
 abbas,ara,Arabic,Arabic,5
-abbethdin,heb,Hebrew,Germanic,9
+abbethdin,heb,Hebrew,Other,9
 abderite,lat,Latin,Latin,8
 abdullah,ara,Arabic,Arabic,8
 abenaki,fra,French,Latin,7
 abgarus,lat,Latin,Latin,7
 abhimanyu,san,Sanskrit,Other,9
-abib,heb,Hebrew,Germanic,4
-abigail,heb,Hebrew,Germanic,7
-abimelech,heb,Hebrew,Germanic,9
+abib,heb,Hebrew,Other,4
+abigail,heb,Hebrew,Other,7
+abimelech,heb,Hebrew,Other,9
 abkhaz,rus,Russian,Other,6
 abovian,hye,Armenian,Other,7
 abovyan,hye,Armenian,Other,7
@@ -25,7 +25,7 @@ abrahamic,lat,Latin,Latin,9
 abrahamical,lat,Latin,Latin,11
 abrahamism,lat,Latin,Latin,10
 abrahamyan,hye,Armenian,Other,10
-abram,heb,Hebrew,Germanic,5
+abram,heb,Hebrew,Other,5
 abruzzo,ita,Italian,Latin,7
 abu dhabi,ara,Arabic,Arabic,9
 acadia,ita,Italian,Latin,6
@@ -39,16 +39,16 @@ achilles,lat,Latin,Latin,8
 acmeism,rus,Russian,Other,7
 acroceraunian,lat,Latin,Latin,13
 adad,akk,Akkadian,Other,4
-adah,heb,Hebrew,Germanic,4
+adah,heb,Hebrew,Other,4
 adam,lat,Latin,Latin,4
 adamesque,lat,Latin,Latin,9
 adamite,lat,Latin,Latin,7
-adamos,ell,Modern Greek,Greek,6
+adamos,ell,Modern Greek,Other,6
 adamson,lat,Latin,Latin,7
-adar,heb,Hebrew,Germanic,4
+adar,heb,Hebrew,Other,4
 aditi,san,Sanskrit,Other,5
 aditya,san,Sanskrit,Other,6
-adonai,heb,Hebrew,Germanic,6
+adonai,heb,Hebrew,Other,6
 adrian,lat,Latin,Latin,6
 aeneas,lat,Latin,Latin,6
 aeneid,lat,Latin,Latin,6
@@ -66,8 +66,8 @@ aghayan,hye,Armenian,Other,7
 agni,san,Sanskrit,Other,4
 agnus dei,lat,Latin,Latin,9
 agrippa,lat,Latin,Latin,7
-ahasuerus,heb,Hebrew,Germanic,9
-ahaz,heb,Hebrew,Germanic,4
+ahasuerus,heb,Hebrew,Other,9
+ahaz,heb,Hebrew,Other,4
 ahmad,ara,Arabic,Arabic,5
 ahmed,ara,Arabic,Arabic,5
 ahmedabad,guj,Gujarati,Other,9
@@ -76,7 +76,7 @@ ahrimanic,fas,Persian,Other,9
 ahuna vairya,ave,Avestan,Other,12
 ahura mazda,ave,Avestan,Other,11
 aida,ita,Italian,Latin,4
-aidenn,heb,Hebrew,Germanic,6
+aidenn,heb,Hebrew,Other,6
 ajax,lat,Latin,Latin,4
 ajaxify,lat,Latin,Latin,7
 akkad,akk,Akkadian,Other,5
@@ -96,7 +96,7 @@ alejandro,spa,Spanish; Castilian,Latin,9
 aleksanian,hye,Armenian,Other,10
 aleksanyan,hye,Armenian,Other,10
 alexander,lat,Latin,Latin,9
-alexandroupoli,ell,Modern Greek,Greek,14
+alexandroupoli,ell,Modern Greek,Other,14
 alexis,fra,French,Latin,6
 algarve,por,Portuguese,Latin,7
 algeria,ara,Arabic,Arabic,7
@@ -140,7 +140,7 @@ ancien régime,fra,French,Latin,13
 andrea,ita,Italian,Latin,6
 angada,san,Sanskrit,Other,6
 angelo,ita,Italian,Latin,6
-angelopoulos,ell,Modern Greek,Greek,12
+angelopoulos,ell,Modern Greek,Other,12
 anglican,lat,Latin,Latin,8
 anglicanism,lat,Latin,Latin,11
 anglophile,lat,Latin,Latin,10
@@ -174,7 +174,7 @@ ara,lat,Latin,Latin,3
 arabia,lat,Latin,Latin,6
 arabic,lat,Latin,Latin,6
 arachne,lat,Latin,Latin,7
-arachosia,ell,Modern Greek,Greek,9
+arachosia,ell,Modern Greek,Other,9
 araki,fas,Persian,Other,5
 aral sea,kaz,Kazakh,Other,8
 aras,tur,Turkish,Other,4
@@ -193,12 +193,12 @@ argolic,lat,Latin,Latin,7
 argonautic,lat,Latin,Latin,10
 ariane,fra,French,Latin,6
 arianna,ita,Italian,Latin,7
-arie,heb,Hebrew,Germanic,4
+arie,heb,Hebrew,Other,4
 aries,lat,Latin,Latin,5
 arietian,lat,Latin,Latin,8
 arinj,hye,Armenian,Other,5
 aristotelean,lat,Latin,Latin,12
-armageddon,heb,Hebrew,Germanic,10
+armageddon,heb,Hebrew,Other,10
 armenophile,lat,Latin,Latin,11
 armill,lat,Latin,Latin,6
 arminius,lat,Latin,Latin,8
@@ -212,10 +212,10 @@ arundhati,san,Sanskrit,Other,9
 arunim,san,Sanskrit,Other,6
 aryan,san,Sanskrit,Other,5
 aryanize,san,Sanskrit,Other,8
-asa,heb,Hebrew,Germanic,3
+asa,heb,Hebrew,Other,3
 asclepius,lat,Latin,Latin,9
 asha,san,Sanskrit,Other,4
-ashkenazim,heb,Hebrew,Germanic,10
+ashkenazim,heb,Hebrew,Other,10
 ashtami,san,Sanskrit,Other,7
 ashtarak,hye,Armenian,Other,8
 ashura,ara,Arabic,Arabic,6
@@ -242,7 +242,7 @@ aurelian,lat,Latin,Latin,8
 auriga,lat,Latin,Latin,6
 auschwitz,deu,German,Germanic,9
 auster,lat,Latin,Latin,6
-av,heb,Hebrew,Germanic,2
+av,heb,Hebrew,Other,2
 avellino,lat,Latin,Latin,8
 avernus,lat,Latin,Latin,7
 axel,dan,Danish,Germanic,4
@@ -262,7 +262,7 @@ baci,ita,Italian,Latin,4
 badajoz,spa,Spanish; Castilian,Latin,7
 baha,ara,Arabic,Arabic,4
 baikal,rus,Russian,Other,6
-baklahorani,ell,Modern Greek,Greek,11
+baklahorani,ell,Modern Greek,Other,11
 baku,rus,Russian,Other,4
 balkan,tur,Turkish,Other,6
 balthazar,lat,Latin,Latin,9
@@ -273,7 +273,7 @@ barak,ara,Arabic,Arabic,5
 barbados,por,Portuguese,Latin,8
 barbarossa,ita,Italian,Latin,10
 barbuda,spa,Spanish; Castilian,Latin,7
-baruch,heb,Hebrew,Germanic,6
+baruch,heb,Hebrew,Other,6
 basheer,ara,Arabic,Arabic,7
 bashir,ara,Arabic,Arabic,6
 bashkir,rus,Russian,Other,7
@@ -370,8 +370,8 @@ casevac,lat,Latin,Latin,7
 caaba,ara,Arabic,Arabic,5
 caesarea,lat,Latin,Latin,8
 cagliari,ita,Italian,Latin,8
-cain,heb,Hebrew,Germanic,4
-caleb,heb,Hebrew,Germanic,5
+cain,heb,Hebrew,Other,4
+caleb,heb,Hebrew,Other,5
 callahan,gle,Irish,Other,8
 calvary,lat,Latin,Latin,7
 camargue,fra,French,Latin,8
@@ -391,8 +391,8 @@ capella,lat,Latin,Latin,7
 capricorn,lat,Latin,Latin,9
 capsian,fra,French,Latin,7
 carborundum,lat,Latin,Latin,11
-carmel,heb,Hebrew,Germanic,6
-carmelite,heb,Hebrew,Germanic,9
+carmel,heb,Hebrew,Other,6
+carmelite,heb,Hebrew,Other,9
 carmen,spa,Spanish; Castilian,Latin,6
 cartagena,spa,Spanish; Castilian,Latin,9
 carthage,lat,Latin,Latin,8
@@ -429,7 +429,7 @@ charlotte,fra,French,Latin,9
 chaturdashi,san,Sanskrit,Other,11
 chaturthi,san,Sanskrit,Other,9
 chavacano,spa,Spanish; Castilian,Latin,9
-chazal,heb,Hebrew,Germanic,6
+chazal,heb,Hebrew,Other,6
 chelm,pol,Polish,Other,5
 cherkasy,ukr,Ukrainian,Other,8
 chernihiv,ukr,Ukrainian,Other,9
@@ -457,7 +457,7 @@ chorasmian,lat,Latin,Latin,10
 christianism,lat,Latin,Latin,12
 christine,fra,French,Latin,9
 chukchi,rus,Russian,Other,7
-chumash,heb,Hebrew,Germanic,7
+chumash,heb,Hebrew,Other,7
 ciaran,gle,Irish,Other,6
 cicero,lat,Latin,Latin,6
 ciceronian,lat,Latin,Latin,10
@@ -470,8 +470,8 @@ citlali,nah,Nahuatl languages,Other,7
 clara,lat,Latin,Latin,5
 clelia,lat,Latin,Latin,6
 cloelia,lat,Latin,Latin,7
-cohen,heb,Hebrew,Germanic,5
-cohenian,heb,Hebrew,Germanic,8
+cohen,heb,Hebrew,Other,5
+cohenian,heb,Hebrew,Other,8
 cologne,fra,French,Latin,7
 colognian,fra,French,Latin,9
 colson,fra,French,Latin,6
@@ -510,8 +510,8 @@ curia,lat,Latin,Latin,5
 curonian,lat,Latin,Latin,8
 cygnus,lat,Latin,Latin,6
 cyllenian,lat,Latin,Latin,9
-cypriot,ell,Modern Greek,Greek,7
-cypriotness,ell,Modern Greek,Greek,11
+cypriot,ell,Modern Greek,Other,7
+cypriotness,ell,Modern Greek,Other,11
 cyrenaic,lat,Latin,Latin,8
 cyrus,lat,Latin,Latin,5
 czech,pol,Polish,Other,5
@@ -551,7 +551,7 @@ devi,san,Sanskrit,Other,4
 dhaka,ben,Bengali,Other,5
 dhenuka,san,Sanskrit,Other,7
 diablo,fra,French,Latin,6
-didymoteicho,ell,Modern Greek,Greek,12
+didymoteicho,ell,Modern Greek,Other,12
 dilazak,urd,Urdu,Other,7
 dilzak,urd,Urdu,Other,6
 dima,rus,Russian,Other,4
@@ -573,7 +573,7 @@ draco,lat,Latin,Latin,5
 draskhanakert,hye,Armenian,Other,13
 dravidian,san,Sanskrit,Other,9
 drew,xno,Anglo-Norman,Germanic,4
-dror,heb,Hebrew,Germanic,4
+dror,heb,Hebrew,Other,4
 drusilla,lat,Latin,Latin,8
 dschubba,ara,Arabic,Arabic,8
 dunkirk,nld,Dutch;Flemish,Germanic,7
@@ -582,26 +582,26 @@ dwitiya,san,Sanskrit,Other,7
 dyaus pita,san,Sanskrit,Other,10
 dyngus day,pol,Polish,Other,10
 dzūkija,lit,Lithuanian,Other,7
-elot,ell,Modern Greek,Greek,4
-ebenezer,heb,Hebrew,Germanic,8
+elot,ell,Modern Greek,Other,4
+ebenezer,heb,Hebrew,Other,8
 ecbatana,lat,Latin,Latin,8
 echo,lat,Latin,Latin,4
 ecuador,spa,Spanish; Castilian,Latin,7
-eden,heb,Hebrew,Germanic,4
-edenic,heb,Hebrew,Germanic,6
-edenize,heb,Hebrew,Germanic,7
-edenlike,heb,Hebrew,Germanic,8
+eden,heb,Hebrew,Other,4
+edenic,heb,Hebrew,Other,6
+edenize,heb,Hebrew,Other,7
+edenlike,heb,Hebrew,Other,8
 eid,ara,Arabic,Arabic,3
 eindhoven,nld,Dutch;Flemish,Germanic,9
 eire,gle,Irish,Other,4
 ekadashi,san,Sanskrit,Other,8
 el salvador,spa,Spanish; Castilian,Latin,11
 eleatic,lat,Latin,Latin,7
-eleazar,heb,Hebrew,Germanic,7
-eliel,heb,Hebrew,Germanic,5
-eliezer,heb,Hebrew,Germanic,7
-elijah,heb,Hebrew,Germanic,6
-elliniko,ell,Modern Greek,Greek,8
+eleazar,heb,Hebrew,Other,7
+eliel,heb,Hebrew,Other,5
+eliezer,heb,Hebrew,Other,7
+elijah,heb,Hebrew,Other,6
+elliniko,ell,Modern Greek,Other,8
 eloise,fra,French,Latin,6
 elsa,deu,German,Germanic,4
 emerson,fra,French,Latin,7
@@ -614,9 +614,9 @@ endoeuropean,fra,French,Latin,12
 enif,ara,Arabic,Arabic,4
 enna,ita,Italian,Latin,4
 enoch,lat,Latin,Latin,5
-enosis,ell,Modern Greek,Greek,6
+enosis,ell,Modern Greek,Other,6
 enûma eliš,akk,Akkadian,Other,10
-ephraim,heb,Hebrew,Germanic,7
+ephraim,heb,Hebrew,Other,7
 epicurean,lat,Latin,Latin,9
 epicurus,lat,Latin,Latin,8
 epirus,lat,Latin,Latin,6
@@ -625,14 +625,14 @@ erdoğan,tur,Turkish,Other,7
 eric,gle,Irish,Other,4
 eridanus,lat,Latin,Latin,8
 eritrea,lat,Latin,Latin,7
-esau,heb,Hebrew,Germanic,4
+esau,heb,Hebrew,Other,4
 esbjerg,dan,Danish,Germanic,7
 escaut,fra,French,Latin,6
 esmeralda,spa,Spanish; Castilian,Latin,9
 esperantism,epo,Esperanto,Other,11
 esperantist,epo,Esperanto,Other,11
 esperanto,epo,Esperanto,Other,9
-ethan,heb,Hebrew,Germanic,5
+ethan,heb,Hebrew,Other,5
 etnean,lat,Latin,Latin,6
 eurabia,lat,Latin,Latin,7
 eurocrat,fra,French,Latin,8
@@ -697,7 +697,7 @@ fukushima,jpn,Japanese,Japanese,9
 fulda,deu,German,Germanic,5
 gabon,por,Portuguese,Latin,5
 gabonese,por,Portuguese,Latin,8
-gabriel,heb,Hebrew,Germanic,7
+gabriel,heb,Hebrew,Other,7
 gabrielle,fra,French,Latin,9
 gadarene,lat,Latin,Latin,8
 gadhelic,lat,Latin,Latin,8
@@ -713,7 +713,7 @@ ganesha,san,Sanskrit,Other,7
 ganga,san,Sanskrit,Other,5
 ganges,san,Sanskrit,Other,6
 gangnam,kor,Korean,Other,7
-gaon,heb,Hebrew,Germanic,4
+gaon,heb,Hebrew,Other,4
 garcia,spa,Spanish; Castilian,Latin,6
 garda,gle,Irish,Other,5
 garfunkel,yid,Yiddish,Germanic,9
@@ -740,8 +740,8 @@ germanlike,lat,Latin,Latin,10
 germanly,lat,Latin,Latin,8
 germanoid,lat,Latin,Latin,9
 germinal,lat,Latin,Latin,8
-gershom,heb,Hebrew,Germanic,7
-gideon,heb,Hebrew,Germanic,6
+gershom,heb,Hebrew,Other,7
+gideon,heb,Hebrew,Other,6
 gilgamesh,akk,Akkadian,Other,9
 girona,cat,Catalan; Valencian,Other,6
 giselle,fra,French,Latin,7
@@ -782,12 +782,12 @@ gunther,deu,German,Germanic,7
 gupta,hin,Hindi,Other,5
 gurmukhi,pan,Panjabi; Punjabi,Other,8
 götterdämmerung,deu,German,Germanic,15
-hashem,heb,Hebrew,Germanic,6
+hashem,heb,Hebrew,Other,6
 habakkuk,lat,Latin,Latin,8
-hagar,heb,Hebrew,Germanic,5
+hagar,heb,Hebrew,Other,5
 haifa,ara,Arabic,Arabic,5
-hakkoz,heb,Hebrew,Germanic,6
-halacha,heb,Hebrew,Germanic,7
+hakkoz,heb,Hebrew,Other,6
+halacha,heb,Hebrew,Other,7
 hamal,ara,Arabic,Arabic,5
 hamas,ara,Arabic,Arabic,5
 hamasaki,jpn,Japanese,Japanese,8
@@ -825,7 +825,7 @@ hercules,lat,Latin,Latin,8
 herodotus,lat,Latin,Latin,9
 hesperus,lat,Latin,Latin,8
 hezbollah,ara,Arabic,Arabic,9
-hezekiah,heb,Hebrew,Germanic,8
+hezekiah,heb,Hebrew,Other,8
 hibernia,lat,Latin,Latin,8
 hibernophile,lat,Latin,Latin,12
 hijra,ara,Arabic,Arabic,5
@@ -874,7 +874,7 @@ iberia,lat,Latin,Latin,6
 ibiza,spa,Spanish; Castilian,Latin,5
 ignorantine,fra,French,Latin,11
 ilium,lat,Latin,Latin,5
-immanuel,heb,Hebrew,Germanic,8
+immanuel,heb,Hebrew,Other,8
 inanna,sux,Sumerian,Other,6
 inari,jpn,Japanese,Japanese,5
 incoterm,fra,French,Latin,8
@@ -894,10 +894,10 @@ ipoh,msa,Malay,Other,4
 irani,fas,Persian,Other,5
 irene,fra,French,Latin,5
 irredentist,ita,Italian,Latin,11
-isaac,heb,Hebrew,Germanic,5
+isaac,heb,Hebrew,Other,5
 isan,tha,Thai,Other,4
 isernia,ita,Italian,Latin,7
-ishmael,heb,Hebrew,Germanic,7
+ishmael,heb,Hebrew,Other,7
 ishtar,akk,Akkadian,Other,6
 islam,ara,Arabic,Arabic,5
 islamification,ara,Arabic,Arabic,14
@@ -909,19 +909,19 @@ islamitish,ara,Arabic,Arabic,10
 islamology,ara,Arabic,Arabic,10
 islamonazism,deu,German,Germanic,12
 islamophile,lat,Latin,Latin,11
-israel,heb,Hebrew,Germanic,6
+israel,heb,Hebrew,Other,6
 istria,lat,Latin,Latin,6
 italian,lat,Latin,Latin,7
 italianate,lat,Latin,Latin,10
 italianist,lat,Latin,Latin,10
 ivan,rus,Russian,Other,4
-ivrit,heb,Hebrew,Germanic,5
+ivrit,heb,Hebrew,Other,5
 iwo jima,jpn,Japanese,Japanese,8
 ixion,lat,Latin,Latin,5
 izanagi,jpn,Japanese,Japanese,7
 izanami,jpn,Japanese,Japanese,7
 iztaccíhuatl,spa,Spanish; Castilian,Latin,12
-jav,heb,Hebrew,Germanic,3
+jav,heb,Hebrew,Other,3
 jacob,lat,Latin,Latin,5
 jacobean,lat,Latin,Latin,8
 jacobin,fra,French,Latin,7
@@ -929,7 +929,7 @@ jacobite,lat,Latin,Latin,8
 jacobitic,lat,Latin,Latin,9
 jacobitical,lat,Latin,Latin,11
 jacobitism,lat,Latin,Latin,10
-jadon,heb,Hebrew,Germanic,5
+jadon,heb,Hebrew,Other,5
 jaffa,ara,Arabic,Arabic,5
 jaflong,ben,Bengali,Other,7
 jagannath,san,Sanskrit,Other,9
@@ -941,25 +941,25 @@ janjaweed,ara,Arabic,Arabic,9
 jannat,ara,Arabic,Arabic,6
 janus,lat,Latin,Latin,5
 japonia,lat,Latin,Latin,7
-jared,heb,Hebrew,Germanic,5
+jared,heb,Hebrew,Other,5
 jawi,msa,Malay,Other,4
 jaya,san,Sanskrit,Other,4
 jayantha,san,Sanskrit,Other,8
 jeanne,fra,French,Latin,6
-jeremiah,heb,Hebrew,Germanic,8
-jericho,heb,Hebrew,Germanic,7
+jeremiah,heb,Hebrew,Other,8
+jericho,heb,Hebrew,Other,7
 jersey,xno,Anglo-Norman,Germanic,6
 jerusalem,lat,Latin,Latin,9
 jerusalem artichoke,ita,Italian,Latin,19
 jerusalemite,lat,Latin,Latin,12
 jesselton,msa,Malay,Other,9
-jethro,heb,Hebrew,Germanic,6
+jethro,heb,Hebrew,Other,6
 jewry,xno,Anglo-Norman,Germanic,5
-jezebel,heb,Hebrew,Germanic,7
+jezebel,heb,Hebrew,Other,7
 jicarilla,spa,Spanish; Castilian,Latin,9
 jingzhe,cmn,Mandarin Chinese,Other,7
-job,heb,Hebrew,Germanic,3
-joel,heb,Hebrew,Germanic,4
+job,heb,Hebrew,Other,3
+joel,heb,Hebrew,Other,4
 johannes,lat,Latin,Latin,8
 johansson,swe,Swedish,Germanic,9
 john,lat,Latin,Latin,4
@@ -967,20 +967,20 @@ johor,msa,Malay,Other,5
 johor bahru,msa,Malay,Other,11
 johore,msa,Malay,Other,6
 joinson,lat,Latin,Latin,7
-jonah,heb,Hebrew,Germanic,5
+jonah,heb,Hebrew,Other,5
 jonson,lat,Latin,Latin,6
 jonsonesque,lat,Latin,Latin,11
 jonsonian,lat,Latin,Latin,9
-jordan,heb,Hebrew,Germanic,6
+jordan,heb,Hebrew,Other,6
 josephine,fra,French,Latin,9
-josiah,heb,Hebrew,Germanic,6
+josiah,heb,Hebrew,Other,6
 jove,lat,Latin,Latin,4
 jovian,lat,Latin,Latin,6
 joynson,lat,Latin,Latin,7
 juanita,spa,Spanish; Castilian,Latin,7
 juche,kor,Korean,Other,5
 judea,lat,Latin,Latin,5
-judith,heb,Hebrew,Germanic,6
+judith,heb,Hebrew,Other,6
 julia,lat,Latin,Latin,5
 juliet,ita,Italian,Latin,6
 julius,lat,Latin,Latin,6
@@ -994,14 +994,14 @@ jyothis,san,Sanskrit,Other,7
 jyotsna,san,Sanskrit,Other,7
 kgb,rus,Russian,Other,3
 kabuki,jpn,Japanese,Japanese,6
-kadima,heb,Hebrew,Germanic,6
+kadima,heb,Hebrew,Other,6
 kailasa,san,Sanskrit,Other,7
 kaiser,deu,German,Germanic,6
 kalahari,tsn,Tswana,Other,8
-kaleb,heb,Hebrew,Germanic,5
+kaleb,heb,Hebrew,Other,5
 kalevala,fin,Finnish,Other,8
 kalinin,rus,Russian,Other,7
-kallikantzaros,ell,Modern Greek,Greek,14
+kallikantzaros,ell,Modern Greek,Other,14
 kamadeva,san,Sanskrit,Other,8
 kamasutra,san,Sanskrit,Other,9
 kamboj,hin,Hindi,Other,6
@@ -1012,8 +1012,8 @@ kandahar,pus,Pushto; Pashto,Other,8
 kangar,msa,Malay,Other,6
 kara,kor,Korean,Other,4
 karabakh,rus,Russian,Other,8
-karagiozis,ell,Modern Greek,Greek,10
-karaism,heb,Hebrew,Germanic,7
+karagiozis,ell,Modern Greek,Other,10
+karaism,heb,Hebrew,Other,7
 karaj,fas,Persian,Other,5
 kardashian,hye,Armenian,Other,10
 karen,dan,Danish,Germanic,5
@@ -1030,9 +1030,9 @@ kashi,cmn,Mandarin Chinese,Other,5
 kashiwabara,jpn,Japanese,Japanese,11
 kasparian,hye,Armenian,Other,9
 kasparyan,hye,Armenian,Other,9
-katharevousa,ell,Modern Greek,Greek,12
+katharevousa,ell,Modern Greek,Other,12
 kauai,haw,Hawaiian,Other,5
-kavala,ell,Modern Greek,Greek,6
+kavala,ell,Modern Greek,Other,6
 kazi,ara,Arabic,Arabic,4
 kedah,msa,Malay,Other,5
 kelantan,msa,Malay,Other,8
@@ -1053,7 +1053,7 @@ kiribati,gil,Gilbertese,Other,8
 kirishima,jpn,Japanese,Japanese,9
 kirovohrad,ukr,Ukrainian,Other,10
 klabautermann,deu,German,Germanic,13
-knesset,heb,Hebrew,Germanic,7
+knesset,heb,Hebrew,Other,7
 kobarid,slv,Slovenian,Other,7
 kobashigawa,jpn,Japanese,Japanese,11
 kobe,jpn,Japanese,Japanese,4
@@ -1061,7 +1061,7 @@ kochab,ara,Arabic,Arabic,6
 koizumi,jpn,Japanese,Japanese,7
 kokyo,jpn,Japanese,Japanese,5
 komondor,hun,Hungarian,Other,8
-komotini,ell,Modern Greek,Greek,8
+komotini,ell,Modern Greek,Other,8
 komsomolsk,rus,Russian,Other,10
 korea,kor,Korean,Other,5
 koschei,rus,Russian,Other,7
@@ -1070,7 +1070,7 @@ kota kinabalu,msa,Malay,Other,13
 kransky,slv,Slovenian,Other,7
 krishna,san,Sanskrit,Other,7
 krungthep,tha,Thai,Other,9
-ktiv male,heb,Hebrew,Germanic,9
+ktiv male,heb,Hebrew,Other,9
 kuala lumpur,msa,Malay,Other,12
 kuala terengganu,msa,Malay,Other,16
 kuantan,msa,Malay,Other,7
@@ -1081,9 +1081,9 @@ kurdistani,kur,Kurdish,Other,10
 kurgan,rus,Russian,Other,6
 kurosawa,jpn,Japanese,Japanese,8
 kurt,deu,German,Germanic,4
-kush,heb,Hebrew,Germanic,4
-kushite,heb,Hebrew,Germanic,7
-kushitic,heb,Hebrew,Germanic,8
+kush,heb,Hebrew,Other,4
+kushite,heb,Hebrew,Other,7
+kushitic,heb,Hebrew,Other,8
 kuvasz,hun,Hungarian,Other,6
 kuzbass,rus,Russian,Other,7
 kwajalein,deu,German,Germanic,9
@@ -1094,7 +1094,7 @@ kyōto,jpn,Japanese,Japanese,5
 königsberg,deu,German,Germanic,10
 kōbe,jpn,Japanese,Japanese,4
 la spezia,ita,Italian,Latin,9
-laban,heb,Hebrew,Germanic,5
+laban,heb,Hebrew,Other,5
 labuan,msa,Malay,Other,6
 lachlan,gla,Gaelic; Scottish Gaelic,Germanic,7
 ladino,lad,Ladino,Other,6
@@ -1119,11 +1119,11 @@ latinism,lat,Latin,Latin,8
 latinity,lat,Latin,Latin,8
 lavinia,lat,Latin,Latin,7
 lchashen,hye,Armenian,Other,8
-leah,heb,Hebrew,Germanic,4
+leah,heb,Hebrew,Other,4
 lecco,ita,Italian,Latin,5
 leiden,lat,Latin,Latin,6
-leila,heb,Hebrew,Germanic,5
-lemuel,heb,Hebrew,Germanic,6
+leila,heb,Hebrew,Other,5
+lemuel,heb,Hebrew,Other,6
 leo,lat,Latin,Latin,3
 leomania,lat,Latin,Latin,8
 leonid,lat,Latin,Latin,6
@@ -1132,15 +1132,15 @@ lettish,deu,German,Germanic,7
 letzeburgesh,ltz,Luxembourgish; Letzeburgesch,Other,12
 levant,fra,French,Latin,6
 levantine,fra,French,Latin,9
-levi,heb,Hebrew,Germanic,4
-levite,heb,Hebrew,Germanic,6
+levi,heb,Hebrew,Other,4
+levite,heb,Hebrew,Other,6
 león,spa,Spanish; Castilian,Latin,4
 libra,lat,Latin,Latin,5
 liebercrat,fra,French,Latin,10
 liebestod,deu,German,Germanic,9
-likud,heb,Hebrew,Germanic,5
+likud,heb,Hebrew,Other,5
 lilia,lat,Latin,Latin,5
-lilith,heb,Hebrew,Germanic,6
+lilith,heb,Hebrew,Other,6
 liman,fra,French,Latin,5
 lithosian,lat,Latin,Latin,9
 lithuania minor,lit,Lithuanian,Other,15
@@ -1191,7 +1191,7 @@ lutsk,ukr,Ukrainian,Other,5
 lvov,rus,Russian,Other,4
 lycia,lat,Latin,Latin,5
 lycian,lat,Latin,Latin,6
-ma nishtana,heb,Hebrew,Germanic,11
+ma nishtana,heb,Hebrew,Other,11
 maas,nld,Dutch;Flemish,Germanic,4
 maat,afr,Afrikaans,Germanic,4
 macdonald,gla,Gaelic; Scottish Gaelic,Germanic,9
@@ -1216,7 +1216,7 @@ maharashtra,san,Sanskrit,Other,11
 maharashtrian,san,Sanskrit,Other,13
 mahayana,san,Sanskrit,Other,8
 mahdi,ara,Arabic,Arabic,5
-mahlon,heb,Hebrew,Germanic,6
+mahlon,heb,Hebrew,Other,6
 mahmood,ara,Arabic,Arabic,7
 mahmoud,ara,Arabic,Arabic,7
 maitreya,san,Sanskrit,Other,8
@@ -1238,7 +1238,7 @@ mammonist,lat,Latin,Latin,9
 mammonite,lat,Latin,Latin,9
 manavati,san,Sanskrit,Other,8
 manila,tgl,Tagalog,Other,6
-manoah,heb,Hebrew,Germanic,6
+manoah,heb,Hebrew,Other,6
 manohar,san,Sanskrit,Other,7
 mantua,fra,French,Latin,6
 manu,san,Sanskrit,Other,4
@@ -1294,7 +1294,7 @@ mehr,fas,Persian,Other,4
 meiji,jpn,Japanese,Japanese,5
 meiji period,jpn,Japanese,Japanese,12
 melanie,fra,French,Latin,7
-melchizedek,heb,Hebrew,Germanic,11
+melchizedek,heb,Hebrew,Other,11
 melitene,lat,Latin,Latin,8
 melkite,lat,Latin,Latin,7
 melkonian,hye,Armenian,Other,9
@@ -1323,22 +1323,22 @@ meyer,deu,German,Germanic,5
 michigan,oji,Ojibwa,Other,8
 michiganian,oji,Ojibwa,Other,11
 michoacán,nah,Nahuatl languages,Other,9
-midrash,heb,Hebrew,Germanic,7
-midrashic,heb,Hebrew,Germanic,9
+midrash,heb,Hebrew,Other,7
+midrashic,heb,Hebrew,Other,9
 mikhail,rus,Russian,Other,7
 milan,ita,Italian,Latin,5
-milcah,heb,Hebrew,Germanic,6
+milcah,heb,Hebrew,Other,6
 min dong,cmn,Mandarin Chinese,Other,8
 minamata disease,jpn,Japanese,Japanese,16
 minerva,lat,Latin,Latin,7
 minorite,lat,Latin,Latin,8
 mir,rus,Russian,Other,3
-miriam,heb,Hebrew,Germanic,6
+miriam,heb,Hebrew,Other,6
 mischling,deu,German,Germanic,9
-mishna,heb,Hebrew,Germanic,6
-mishnaic,heb,Hebrew,Germanic,8
-mishnic,heb,Hebrew,Germanic,7
-mishnical,heb,Hebrew,Germanic,9
+mishna,heb,Hebrew,Other,6
+mishnaic,heb,Hebrew,Other,8
+mishnic,heb,Hebrew,Other,7
+mishnical,heb,Hebrew,Other,9
 mississauga,fra,French,Latin,11
 mitanni,hit,Hittite,Other,7
 mithila,san,Sanskrit,Other,7
@@ -1347,7 +1347,7 @@ mithraic,lat,Latin,Latin,8
 mithras,lat,Latin,Latin,7
 miyako,jpn,Japanese,Japanese,6
 miyazaki,jpn,Japanese,Japanese,8
-mizrachi,heb,Hebrew,Germanic,8
+mizrachi,heb,Hebrew,Other,8
 mizunuma,jpn,Japanese,Japanese,8
 modena,ita,Italian,Latin,6
 moesia,lat,Latin,Latin,6
@@ -1359,7 +1359,7 @@ montana,spa,Spanish; Castilian,Latin,7
 montanan,spa,Spanish; Castilian,Latin,8
 monégasque,fra,French,Latin,10
 moselle,fra,French,Latin,7
-mossad,heb,Hebrew,Germanic,6
+mossad,heb,Hebrew,Other,6
 mother russia,rus,Russian,Other,13
 motown,lat,Latin,Latin,6
 motswana,tsn,Tswana,Other,8
@@ -1383,7 +1383,7 @@ mysian,lat,Latin,Latin,6
 málaga,spa,Spanish; Castilian,Latin,6
 n.n.,lat,Latin,Latin,4
 nadezhda,rus,Russian,Other,8
-nahum,heb,Hebrew,Germanic,5
+nahum,heb,Hebrew,Other,5
 nakamura,jpn,Japanese,Japanese,8
 nakba,ara,Arabic,Arabic,5
 namur,mah,Marshallese,Other,5
@@ -1401,8 +1401,8 @@ natal,lat,Latin,Latin,5
 natalia,lat,Latin,Latin,7
 nataraja,san,Sanskrit,Other,8
 natasha,rus,Russian,Other,7
-nathan,heb,Hebrew,Germanic,6
-nathanael,heb,Hebrew,Germanic,9
+nathan,heb,Hebrew,Other,6
+nathanael,heb,Hebrew,Other,9
 navami,san,Sanskrit,Other,6
 naved,fas,Persian,Other,5
 naveed,fas,Persian,Other,6
@@ -1416,16 +1416,16 @@ nazism,deu,German,Germanic,6
 neapolitan,lat,Latin,Latin,10
 negar,fas,Persian,Other,5
 negeri sembilan,msa,Malay,Other,15
-neginoth,heb,Hebrew,Germanic,8
+neginoth,heb,Hebrew,Other,8
 negro,spa,Spanish; Castilian,Latin,5
 negrohood,spa,Spanish; Castilian,Latin,9
 negus,amh,Amharic,Other,5
-nehemiah,heb,Hebrew,Germanic,8
+nehemiah,heb,Hebrew,Other,8
 nehra,hin,Hindi,Other,5
-nephilim,heb,Hebrew,Germanic,8
+nephilim,heb,Hebrew,Other,8
 neptune,lat,Latin,Latin,7
 neronian,lat,Latin,Latin,8
-netanyahu,heb,Hebrew,Germanic,9
+netanyahu,heb,Hebrew,Other,9
 neustria,lat,Latin,Latin,8
 neva,rus,Russian,Other,4
 nevis,spa,Spanish; Castilian,Latin,5
@@ -1442,7 +1442,7 @@ nighantu,san,Sanskrit,Other,8
 nihongo,jpn,Japanese,Japanese,7
 niihau,haw,Hawaiian,Other,6
 nijmegen,nld,Dutch;Flemish,Germanic,8
-nikolaos,ell,Modern Greek,Greek,8
+nikolaos,ell,Modern Greek,Other,8
 nilotic,lat,Latin,Latin,7
 nisei,jpn,Japanese,Japanese,5
 nisibis,lat,Latin,Latin,7
@@ -1466,7 +1466,7 @@ novosibirsk,rus,Russian,Other,11
 nox,lat,Latin,Latin,3
 nunavut,iku,Inuktitut,Other,7
 nyaya,san,Sanskrit,Other,5
-nynorsk,nor,Norwegian,Other,7
+nynorsk,nor,Norwegian,Germanic,7
 nîmes,fra,French,Latin,5
 oahu,haw,Hawaiian,Other,4
 oaxaca,nah,Nahuatl languages,Other,6
@@ -1484,7 +1484,7 @@ olivia,lat,Latin,Latin,6
 olorun,yor,Yoruba,Other,6
 oltenia,lat,Latin,Latin,7
 omagh,gle,Irish,Other,5
-onan,heb,Hebrew,Germanic,4
+onan,heb,Hebrew,Other,4
 onmyodo,jpn,Japanese,Japanese,7
 oona,gle,Irish,Other,4
 ophelia,ita,Italian,Latin,7
@@ -1564,22 +1564,22 @@ perlis,msa,Malay,Other,6
 perrot,fra,French,Latin,6
 persia,lat,Latin,Latin,6
 perugia,ita,Italian,Latin,7
-pesach,heb,Hebrew,Germanic,6
+pesach,heb,Hebrew,Other,6
 pesaro,ita,Italian,Latin,6
 pescara,ita,Italian,Latin,7
 peshitta,syc,Classical Syriac,Other,8
 peter,lat,Latin,Latin,5
 peterson,lat,Latin,Latin,8
 petrosyan,hye,Armenian,Other,9
-phanariot,ell,Modern Greek,Greek,9
-pharisee,heb,Hebrew,Germanic,8
-pharmageddon,heb,Hebrew,Germanic,12
+phanariot,ell,Modern Greek,Other,9
+pharisee,heb,Hebrew,Other,8
+pharmageddon,heb,Hebrew,Other,12
 phaëthon,lat,Latin,Latin,8
 phecda,ara,Arabic,Arabic,6
 philippines,spa,Spanish; Castilian,Latin,11
 philistine,lat,Latin,Latin,10
 philomena,lat,Latin,Latin,9
-phinehas,heb,Hebrew,Germanic,8
+phinehas,heb,Hebrew,Other,8
 phlegethon,lat,Latin,Latin,10
 phoenix,lat,Latin,Latin,7
 phrygian,lat,Latin,Latin,8
@@ -1619,7 +1619,7 @@ portuguese,por,Portuguese,Latin,10
 portugueseness,por,Portuguese,Latin,14
 portuñol,spa,Spanish; Castilian,Latin,8
 potenza,ita,Italian,Latin,7
-potiphar,heb,Hebrew,Germanic,8
+potiphar,heb,Hebrew,Other,8
 pouria,fas,Persian,Other,6
 prairial,fra,French,Latin,8
 prakrit,san,Sanskrit,Other,7
@@ -1632,11 +1632,11 @@ procyon,lat,Latin,Latin,7
 provence,fra,French,Latin,8
 provo,fra,French,Latin,5
 príncipe,por,Portuguese,Latin,8
-psorokóstaina,ell,Modern Greek,Greek,13
+psorokóstaina,ell,Modern Greek,Other,13
 ptah,egy,Egyptian (Ancient),Other,4
 puli,hun,Hungarian,Other,4
 purana,san,Sanskrit,Other,6
-purim,heb,Hebrew,Germanic,5
+purim,heb,Hebrew,Other,5
 purnima,san,Sanskrit,Other,7
 pyongyang,kor,Korean,Other,9
 pythian,lat,Latin,Latin,7
@@ -1644,9 +1644,9 @@ qef,lat,Latin,Latin,3
 quadragesima,lat,Latin,Latin,12
 québécois,fra,French,Latin,9
 rabia,ara,Arabic,Arabic,5
-rachel,heb,Hebrew,Germanic,6
+rachel,heb,Hebrew,Other,6
 radha,san,Sanskrit,Other,5
-rahab,heb,Hebrew,Germanic,5
+rahab,heb,Hebrew,Other,5
 rahu,san,Sanskrit,Other,4
 raines,xno,Anglo-Norman,Germanic,6
 rajab,ara,Arabic,Arabic,5
@@ -1656,13 +1656,13 @@ ramadan,ara,Arabic,Arabic,7
 rameau,fra,French,Latin,6
 ramirez,spa,Spanish; Castilian,Latin,7
 ramona,spa,Spanish; Castilian,Latin,6
-ran,heb,Hebrew,Germanic,3
+ran,heb,Hebrew,Other,3
 rapa nui,rap,Rapanui,Other,8
 ras algethi,ara,Arabic,Arabic,11
 rati,san,Sanskrit,Other,4
 ratna,san,Sanskrit,Other,5
 ravenna,ita,Italian,Latin,7
-rebekah,heb,Hebrew,Germanic,7
+rebekah,heb,Hebrew,Other,7
 reblochon,fra,French,Latin,9
 reconquista,spa,Spanish; Castilian,Latin,11
 redemptorist,fra,French,Latin,12
@@ -1676,8 +1676,8 @@ reichstag,deu,German,Germanic,9
 remus,lat,Latin,Latin,5
 renée,fra,French,Latin,5
 republicrat,fra,French,Latin,11
-reuben,heb,Hebrew,Germanic,6
-reuel,heb,Hebrew,Germanic,5
+reuben,heb,Hebrew,Other,6
+reuel,heb,Hebrew,Other,5
 reynard,fra,French,Latin,7
 reynold,xno,Anglo-Norman,Germanic,7
 rieti,ita,Italian,Latin,5
@@ -1702,9 +1702,9 @@ romani,rom,Romany,Other,6
 romulus,lat,Latin,Latin,7
 rongelap,mah,Marshallese,Other,8
 rosa,lat,Latin,Latin,4
-rosh hashanah,heb,Hebrew,Germanic,13
+rosh hashanah,heb,Hebrew,Other,13
 rovigo,ita,Italian,Latin,6
-ruben,heb,Hebrew,Germanic,5
+ruben,heb,Hebrew,Other,5
 rubyist,lat,Latin,Latin,7
 rufus,lat,Latin,Latin,5
 rumi,msa,Malay,Other,4
@@ -1738,23 +1738,23 @@ salagrama,san,Sanskrit,Other,9
 salerno,lat,Latin,Latin,7
 salic,lat,Latin,Latin,5
 salic law,lat,Latin,Latin,9
-samael,heb,Hebrew,Germanic,6
+samael,heb,Hebrew,Other,6
 samaritan,lat,Latin,Latin,9
 samkhya,san,Sanskrit,Other,7
 samoa,smo,Samoan,Other,5
 samogitia,lit,Lithuanian,Other,9
 samogitian,lit,Lithuanian,Other,10
 samosata,lat,Latin,Latin,8
-samuel,heb,Hebrew,Germanic,6
+samuel,heb,Hebrew,Other,6
 san sebastián,spa,Spanish; Castilian,Latin,13
 sanctus,lat,Latin,Latin,7
-sanhedrin,heb,Hebrew,Germanic,9
+sanhedrin,heb,Hebrew,Other,9
 sanskrit,san,Sanskrit,Other,8
 sanskritist,san,Sanskrit,Other,11
 santiago,spa,Spanish; Castilian,Latin,8
 saptami,san,Sanskrit,Other,7
-sarah,heb,Hebrew,Germanic,5
-sarai,heb,Hebrew,Germanic,5
+sarah,heb,Hebrew,Other,5
+sarai,heb,Hebrew,Other,5
 sarala,san,Sanskrit,Other,6
 saraswati,san,Sanskrit,Other,9
 sarawak,msa,Malay,Other,7
@@ -1784,7 +1784,7 @@ sebastian,lat,Latin,Latin,9
 segovia,spa,Spanish; Castilian,Latin,7
 sehnsucht,deu,German,Germanic,9
 sekhmet,egy,Egyptian (Ancient),Other,7
-selah,heb,Hebrew,Germanic,5
+selah,heb,Hebrew,Other,5
 selangor,msa,Malay,Other,8
 seleucian,lat,Latin,Latin,9
 seleucid,lat,Latin,Latin,8
@@ -1805,30 +1805,30 @@ sergey,rus,Russian,Other,6
 serkis,hye,Armenian,Other,6
 serpens,lat,Latin,Latin,7
 servite,ita,Italian,Latin,7
-seth,heb,Hebrew,Germanic,4
-sethian,heb,Hebrew,Germanic,7
-sethianism,heb,Hebrew,Germanic,10
+seth,heb,Hebrew,Other,4
+sethian,heb,Hebrew,Other,7
+sethianism,heb,Hebrew,Other,10
 setswana,tsn,Tswana,Other,8
 sevan,hye,Armenian,Other,5
 sexagesima sunday,lat,Latin,Latin,17
-shabbat,heb,Hebrew,Germanic,7
-shadrach,heb,Hebrew,Germanic,8
+shabbat,heb,Hebrew,Other,7
+shadrach,heb,Hebrew,Other,8
 shah alam,msa,Malay,Other,9
 shakti,san,Sanskrit,Other,6
-shamash,heb,Hebrew,Germanic,7
+shamash,heb,Hebrew,Other,7
 shanghainese,cmn,Mandarin Chinese,Other,12
 shashti,san,Sanskrit,Other,7
-shavuot,heb,Hebrew,Germanic,7
+shavuot,heb,Hebrew,Other,7
 shawwal,ara,Arabic,Arabic,7
 shayna,yid,Yiddish,Germanic,6
 shazia,ara,Arabic,Arabic,6
-sheba,heb,Hebrew,Germanic,5
+sheba,heb,Hebrew,Other,5
 shenzhen,cmn,Mandarin Chinese,Other,8
-sheol,heb,Hebrew,Germanic,5
+sheol,heb,Hebrew,Other,5
 shiba inu,jpn,Japanese,Japanese,9
 shibasaki,jpn,Japanese,Japanese,9
 shikoku,jpn,Japanese,Japanese,7
-shiloh,heb,Hebrew,Germanic,6
+shiloh,heb,Hebrew,Other,6
 shimabukuro,jpn,Japanese,Japanese,11
 shinto,jpn,Japanese,Japanese,6
 shintoism,jpn,Japanese,Japanese,9
@@ -1868,12 +1868,12 @@ sitzfleisch,deu,German,Germanic,11
 slavianstvo,rus,Russian,Other,11
 slieve donard,gle,Irish,Other,13
 smriti,san,Sanskrit,Other,6
-snowmageddon,heb,Hebrew,Germanic,12
+snowmageddon,heb,Hebrew,Other,12
 sofia,bul,Bulgarian,Other,5
 sogdiana,lat,Latin,Latin,8
 sokoban,jpn,Japanese,Japanese,7
-solomon,heb,Hebrew,Germanic,7
-solomonic,heb,Hebrew,Germanic,9
+solomon,heb,Hebrew,Other,7
+solomonic,heb,Hebrew,Other,9
 soma,san,Sanskrit,Other,4
 sorbonist,fra,French,Latin,9
 soros,hun,Hungarian,Other,5
@@ -1891,7 +1891,7 @@ sri lankan,sin,Sinhala; Sinhalese,Other,10
 srikakulam,san,Sanskrit,Other,10
 sruti,san,Sanskrit,Other,5
 stagirite,lat,Latin,Latin,9
-stavros,ell,Modern Greek,Greek,7
+stavros,ell,Modern Greek,Other,7
 stella,lat,Latin,Latin,6
 stepanakert,hye,Armenian,Other,11
 stephanie,fra,French,Latin,9
@@ -1901,7 +1901,7 @@ sudan,ara,Arabic,Arabic,5
 suebi,lat,Latin,Latin,5
 suevi,lat,Latin,Latin,5
 sukhona,rus,Russian,Other,7
-sukkot,heb,Hebrew,Germanic,6
+sukkot,heb,Hebrew,Other,6
 sumy,ukr,Ukrainian,Other,4
 sunda,ind,Indonesian,Other,5
 sunda strait,ind,Indonesian,Other,12
@@ -1935,12 +1935,12 @@ tagus,lat,Latin,Latin,5
 taipei,cmn,Mandarin Chinese,Other,6
 takahashi,jpn,Japanese,Japanese,9
 takanawa,jpn,Japanese,Japanese,8
-tal,heb,Hebrew,Germanic,3
+tal,heb,Hebrew,Other,3
 talib,pus,Pushto; Pashto,Other,5
-talmud,heb,Hebrew,Germanic,6
-talmudist,heb,Hebrew,Germanic,9
-tamar,heb,Hebrew,Germanic,5
-tammuz,heb,Hebrew,Germanic,6
+talmud,heb,Hebrew,Other,6
+talmudist,heb,Hebrew,Other,9
+tamar,heb,Hebrew,Other,5
+tammuz,heb,Hebrew,Other,6
 tanarupi,san,Sanskrit,Other,8
 tangerine,fra,French,Latin,9
 tara,gle,Irish,Other,4
@@ -1949,7 +1949,7 @@ tarascan,spa,Spanish; Castilian,Latin,8
 tarasco,spa,Spanish; Castilian,Latin,7
 tareen,pus,Pushto; Pashto,Other,6
 tarentine,lat,Latin,Latin,9
-targumist,heb,Hebrew,Germanic,9
+targumist,heb,Hebrew,Other,9
 tariq,ara,Arabic,Arabic,5
 tarkanian,hye,Armenian,Other,9
 taron,hye,Armenian,Other,5
@@ -1960,13 +1960,13 @@ tatzelwurm,deu,German,Germanic,10
 taurus,lat,Latin,Latin,6
 tayk,hye,Armenian,Other,4
 tehran,fas,Persian,Other,6
-tel aviv,heb,Hebrew,Germanic,8
+tel aviv,heb,Hebrew,Other,8
 telugu,tel,Telugu,Other,6
 temuco,arn,Mapudungun; Mapuche,Other,6
 tennessee,chr,Cherokee,Other,9
 tennesseean,chr,Cherokee,Other,11
 tenonian,fra,French,Latin,8
-terah,heb,Hebrew,Germanic,5
+terah,heb,Hebrew,Other,5
 teramo,ita,Italian,Latin,6
 terence,lat,Latin,Latin,7
 terengganu,msa,Malay,Other,10
@@ -1992,7 +1992,7 @@ theravada,pli,Pali,Other,9
 theravadin,pli,Pali,Other,10
 thermidorian,fra,French,Latin,12
 thermopylae,lat,Latin,Latin,11
-thessaloniki,ell,Modern Greek,Greek,12
+thessaloniki,ell,Modern Greek,Other,12
 thrace,lat,Latin,Latin,6
 thracian,lat,Latin,Latin,8
 thrayodashi,san,Sanskrit,Other,11
@@ -2007,20 +2007,20 @@ tir,fas,Persian,Other,3
 tisza,hun,Hungarian,Other,5
 titus,lat,Latin,Latin,5
 tocharian,lat,Latin,Latin,9
-togarmah,heb,Hebrew,Germanic,8
+togarmah,heb,Hebrew,Other,8
 toltec,spa,Spanish; Castilian,Latin,6
 tonga,hin,Hindi,Other,5
 tonto,spa,Spanish; Castilian,Latin,5
-tophet,heb,Hebrew,Germanic,6
-torah,heb,Hebrew,Germanic,5
+tophet,heb,Hebrew,Other,6
+torah,heb,Hebrew,Other,5
 toronto,moh,Mohawk,Other,7
 torschlusspanik,deu,German,Germanic,15
 torygraph,fra,French,Latin,9
 toulouse,lat,Latin,Latin,8
 tractite,lat,Latin,Latin,8
 transdanubian,lat,Latin,Latin,13
-transjordan,heb,Hebrew,Germanic,11
-transjordanian,heb,Hebrew,Germanic,14
+transjordan,heb,Hebrew,Other,11
+transjordanian,heb,Hebrew,Other,14
 transtiberine,lat,Latin,Latin,13
 trapani,ita,Italian,Latin,7
 trappist,fra,French,Latin,8
@@ -2060,7 +2060,7 @@ upazila,ben,Bengali,Other,7
 urban,lat,Latin,Latin,5
 urdu,fas,Persian,Other,4
 urheimat,deu,German,Germanic,8
-uriah,heb,Hebrew,Germanic,5
+uriah,heb,Hebrew,Other,5
 ushas,san,Sanskrit,Other,5
 utada,jpn,Japanese,Japanese,5
 utah,spa,Spanish; Castilian,Latin,4
@@ -2149,7 +2149,7 @@ wunderkammer,deu,German,Germanic,12
 xiaomin,cmn,Mandarin Chinese,Other,7
 yivo,yid,Yiddish,Germanic,4
 yacoubian,hye,Armenian,Other,9
-yael,heb,Hebrew,Germanic,4
+yael,heb,Hebrew,Other,4
 yaghoubian,hye,Armenian,Other,10
 yajurveda,san,Sanskrit,Other,9
 yama,san,Sanskrit,Other,4
@@ -2157,16 +2157,16 @@ yanukovych,ukr,Ukrainian,Other,10
 yaroslavl,rus,Russian,Other,9
 yasna,ave,Avestan,Other,5
 yazidi,kur,Kurdish,Other,6
-yehudi,heb,Hebrew,Germanic,6
+yehudi,heb,Hebrew,Other,6
 yenisei,rus,Russian,Other,7
 yerazgavors,hye,Armenian,Other,11
 yerevan,hye,Armenian,Other,7
 yerevanian,hye,Armenian,Other,10
 yid,yid,Yiddish,Germanic,3
-yngling,nor,Norwegian,Other,7
+yngling,nor,Norwegian,Germanic,7
 yogacharya,san,Sanskrit,Other,10
 yogiism,hin,Hindi,Other,7
-yom kippur,heb,Hebrew,Germanic,10
+yom kippur,heb,Hebrew,Other,10
 yoshi,jpn,Japanese,Japanese,5
 yukon,gwi,Gwich'in,Other,5
 yukoner,gwi,Gwich'in,Other,7
@@ -2183,17 +2183,17 @@ zaqqum,ara,Arabic,Arabic,6
 zaragoza,spa,Spanish; Castilian,Latin,8
 zarathustra,ave,Avestan,Other,11
 zarina,tat,Tatar,Other,6
-zebul,heb,Hebrew,Germanic,5
+zebul,heb,Hebrew,Other,5
 zeeland,nld,Dutch;Flemish,Germanic,7
 zeelander,nld,Dutch;Flemish,Germanic,9
-zelophehad,heb,Hebrew,Germanic,10
+zelophehad,heb,Hebrew,Other,10
 zemfira,rus,Russian,Other,7
 zen,jpn,Japanese,Japanese,3
 zenlike,jpn,Japanese,Japanese,7
 zennish,jpn,Japanese,Japanese,7
 zenobia,lat,Latin,Latin,7
 zeshan,ara,Arabic,Arabic,6
-zev,heb,Hebrew,Germanic,3
+zev,heb,Hebrew,Other,3
 zhukov,rus,Russian,Other,6
 zhumulangma,cmn,Mandarin Chinese,Other,11
 zhytomyr,ukr,Ukrainian,Other,8
@@ -2201,14 +2201,14 @@ zimbabwe,sna,Shona,Other,8
 zimmermann,deu,German,Germanic,10
 zinacantán,spa,Spanish; Castilian,Latin,10
 zinaida,rus,Russian,Other,7
-zion,heb,Hebrew,Germanic,4
+zion,heb,Hebrew,Other,4
 zionazi,deu,German,Germanic,7
-zionism,heb,Hebrew,Germanic,7
-zionist,heb,Hebrew,Germanic,7
-zionistic,heb,Hebrew,Germanic,9
-zionize,heb,Hebrew,Germanic,7
-zipporah,heb,Hebrew,Germanic,8
-zohar,heb,Hebrew,Germanic,5
+zionism,heb,Hebrew,Other,7
+zionist,heb,Hebrew,Other,7
+zionistic,heb,Hebrew,Other,9
+zionize,heb,Hebrew,Other,7
+zipporah,heb,Hebrew,Other,8
+zohar,heb,Hebrew,Other,5
 zollverein,deu,German,Germanic,10
 zoltan,hun,Hungarian,Other,6
 zubenelgenubi,ara,Arabic,Arabic,13
@@ -2265,7 +2265,7 @@ abhorrent,lat,Latin,Latin,9
 abhorrently,lat,Latin,Latin,11
 abietic,lat,Latin,Latin,7
 abietic acid,lat,Latin,Latin,12
-abigailship,heb,Hebrew,Germanic,11
+abigailship,heb,Hebrew,Other,11
 abigeat,lat,Latin,Latin,7
 abiogenetic,lat,Latin,Latin,11
 abiogenous,lat,Latin,Latin,10
@@ -2292,7 +2292,7 @@ ablude,lat,Latin,Latin,6
 abluent,lat,Latin,Latin,7
 abluvion,lat,Latin,Latin,8
 abnegative,lat,Latin,Latin,10
-abnet,heb,Hebrew,Germanic,5
+abnet,heb,Hebrew,Other,5
 abnormal,lat,Latin,Latin,8
 abnormalcy,lat,Latin,Latin,10
 abnormalise,lat,Latin,Latin,11
@@ -2543,7 +2543,7 @@ adempt,lat,Latin,Latin,6
 ademption,lat,Latin,Latin,9
 adenine,deu,German,Germanic,7
 adenocyte,lat,Latin,Latin,9
-adenoid,ell,Modern Greek,Greek,7
+adenoid,ell,Modern Greek,Other,7
 adept,fra,French,Latin,5
 adeption,lat,Latin,Latin,8
 adeptist,fra,French,Latin,8
@@ -2695,7 +2695,7 @@ affluently,fra,French,Latin,10
 affrap,ita,Italian,Latin,6
 affronté,fra,French,Latin,8
 affusion,lat,Latin,Latin,8
-afikomen,heb,Hebrew,Germanic,8
+afikomen,heb,Hebrew,Other,8
 aflagellate,lat,Latin,Latin,11
 afoxe,por,Portuguese,Latin,5
 afterfest,deu,German,Germanic,9
@@ -2750,7 +2750,7 @@ agon,lat,Latin,Latin,4
 agonism,lat,Latin,Latin,7
 agonization,fra,French,Latin,11
 agonize,fra,French,Latin,7
-agora,heb,Hebrew,Germanic,5
+agora,heb,Hebrew,Other,5
 agoraphobia,lat,Latin,Latin,11
 agoraphobiac,lat,Latin,Latin,12
 agraffe,fra,French,Latin,7
@@ -2817,7 +2817,7 @@ alectoria,lat,Latin,Latin,9
 aleger,fra,French,Latin,6
 alembic,fra,French,Latin,7
 alembicated,fra,French,Latin,11
-aleph,heb,Hebrew,Germanic,5
+aleph,heb,Hebrew,Other,5
 alert,fra,French,Latin,5
 alertly,fra,French,Latin,7
 alertness,fra,French,Latin,9
@@ -2843,7 +2843,7 @@ aliment,fra,French,Latin,7
 alimentary,fra,French,Latin,10
 aliquot,fra,French,Latin,7
 aliter,lat,Latin,Latin,6
-aliyah,heb,Hebrew,Germanic,6
+aliyah,heb,Hebrew,Other,6
 alizarin,ara,Arabic,Arabic,8
 alkalamide,fra,French,Latin,10
 alkalescent,fra,French,Latin,11
@@ -3526,7 +3526,7 @@ apical,lat,Latin,Latin,6
 apically,lat,Latin,Latin,8
 apicular,lat,Latin,Latin,8
 apiculate,lat,Latin,Latin,9
-apikoros,heb,Hebrew,Germanic,8
+apikoros,heb,Hebrew,Other,8
 aplenty,xno,Anglo-Norman,Germanic,7
 apocenter,fra,French,Latin,9
 apocopate,lat,Latin,Latin,9
@@ -4124,7 +4124,7 @@ averseness,lat,Latin,Latin,10
 aversion,lat,Latin,Latin,8
 avert,lat,Latin,Latin,5
 avertable,lat,Latin,Latin,9
-avgolemono,ell,Modern Greek,Greek,10
+avgolemono,ell,Modern Greek,Other,10
 avian,lat,Latin,Latin,5
 avianlike,lat,Latin,Latin,9
 aviary,lat,Latin,Latin,6
@@ -4283,7 +4283,7 @@ bansuri,hin,Hindi,Other,7
 bantam,nld,Dutch;Flemish,Germanic,6
 banteng,msa,Malay,Other,7
 banyan,por,Portuguese,Latin,6
-bar mitzvah,heb,Hebrew,Germanic,11
+bar mitzvah,heb,Hebrew,Other,11
 barakah,ara,Arabic,Arabic,7
 barathrum,lat,Latin,Latin,9
 barbacoa,spa,Spanish; Castilian,Latin,8
@@ -4322,7 +4322,7 @@ barracoon,spa,Spanish; Castilian,Latin,9
 barrage,fra,French,Latin,7
 barret,fra,French,Latin,6
 barrette,fra,French,Latin,8
-baruch hashem,heb,Hebrew,Germanic,13
+baruch hashem,heb,Hebrew,Other,13
 barycenter,fra,French,Latin,10
 barytone,lat,Latin,Latin,8
 barège,fra,French,Latin,6
@@ -4359,20 +4359,20 @@ bastille,fra,French,Latin,8
 bastinade,fra,French,Latin,9
 bastinado,spa,Spanish; Castilian,Latin,9
 basturma,hye,Armenian,Other,8
-bat mitzvah,heb,Hebrew,Germanic,11
+bat mitzvah,heb,Hebrew,Other,11
 batata vada,mar,Marathi,Other,11
 bate,swe,Swedish,Germanic,4
 bateau,fra,French,Latin,6
 bateful,swe,Swedish,Germanic,7
 bateleur,fra,French,Latin,8
-bath,heb,Hebrew,Germanic,4
-bathful,heb,Hebrew,Germanic,7
-bathkeeper,heb,Hebrew,Germanic,10
-bathless,heb,Hebrew,Germanic,8
-bathlike,heb,Hebrew,Germanic,8
-bathrobe,heb,Hebrew,Germanic,8
-bathrobed,heb,Hebrew,Germanic,9
-bathtub,heb,Hebrew,Germanic,7
+bath,heb,Hebrew,Other,4
+bathful,heb,Hebrew,Other,7
+bathkeeper,heb,Hebrew,Other,10
+bathless,heb,Hebrew,Other,8
+bathlike,heb,Hebrew,Other,8
+bathrobe,heb,Hebrew,Other,8
+bathrobed,heb,Hebrew,Other,9
+bathtub,heb,Hebrew,Other,7
 bathymetric,fra,French,Latin,11
 bating,swe,Swedish,Germanic,6
 batiste,fra,French,Latin,7
@@ -4398,8 +4398,8 @@ bazaar,ita,Italian,Latin,6
 bazaarlike,ita,Italian,Latin,10
 bazooka,nld,Dutch;Flemish,Germanic,7
 bdellium,lat,Latin,Latin,8
-bdelloid,ell,Modern Greek,Greek,8
-bdelloid rotifer,ell,Modern Greek,Greek,16
+bdelloid,ell,Modern Greek,Other,8
+bdelloid rotifer,ell,Modern Greek,Other,16
 beatific,fra,French,Latin,8
 beatification,lat,Latin,Latin,13
 beatify,fra,French,Latin,7
@@ -4461,11 +4461,11 @@ berm,nld,Dutch;Flemish,Germanic,4
 berouged,fra,French,Latin,8
 bestial,lat,Latin,Latin,7
 bestiary,fra,French,Latin,8
-bet,heb,Hebrew,Germanic,3
+bet,heb,Hebrew,Other,3
 beteela,por,Portuguese,Latin,7
 betitle,lat,Latin,Latin,7
 betrail,lat,Latin,Latin,7
-bettable,heb,Hebrew,Germanic,8
+bettable,heb,Hebrew,Other,8
 bey,tur,Turkish,Other,3
 beylerbey,tur,Turkish,Other,9
 beylic,tur,Turkish,Other,6
@@ -4553,7 +4553,7 @@ bilious,lat,Latin,Latin,7
 billion,fra,French,Latin,7
 billionfold,fra,French,Latin,11
 bilocate,lat,Latin,Latin,8
-bimah,ell,Modern Greek,Greek,5
+bimah,ell,Modern Greek,Other,5
 bimbette,ita,Italian,Latin,8
 bimbo,ita,Italian,Latin,5
 bimboesque,ita,Italian,Latin,10
@@ -4647,7 +4647,7 @@ biprism,lat,Latin,Latin,7
 bipupillate,xno,Anglo-Norman,Germanic,11
 bipupilled,xno,Anglo-Norman,Germanic,10
 biradiate,lat,Latin,Latin,9
-birdbath,heb,Hebrew,Germanic,8
+birdbath,heb,Hebrew,Other,8
 birotation,lat,Latin,Latin,10
 biryani,fas,Persian,Other,7
 bisadduct,lat,Latin,Latin,9
@@ -4703,7 +4703,7 @@ blendous,deu,German,Germanic,8
 blesbuck,afr,Afrikaans,Germanic,8
 blet,fra,French,Latin,4
 bleyme,fra,French,Latin,6
-bli neder,heb,Hebrew,Germanic,9
+bli neder,heb,Hebrew,Other,9
 blini,rus,Russian,Other,5
 blintz,yid,Yiddish,Germanic,6
 bloc,fra,French,Latin,4
@@ -4810,7 +4810,7 @@ boutiquelike,fra,French,Latin,12
 boutiquey,fra,French,Latin,9
 boutonniere,fra,French,Latin,11
 boutonniered,fra,French,Latin,12
-bouzouki,ell,Modern Greek,Greek,8
+bouzouki,ell,Modern Greek,Other,8
 boviform,lat,Latin,Latin,8
 bovine,lat,Latin,Latin,6
 bozbash,aze,Azerbaijani,Other,7
@@ -4878,7 +4878,7 @@ brio,ita,Italian,Latin,4
 briquet,fra,French,Latin,7
 bris,yid,Yiddish,Germanic,4
 brisance,fra,French,Latin,8
-brit milah,heb,Hebrew,Germanic,10
+brit milah,heb,Hebrew,Other,10
 brocard,fra,French,Latin,7
 brocatel,fra,French,Latin,8
 brodequin,fra,French,Latin,9
@@ -5647,11 +5647,11 @@ chauffeur,fra,French,Latin,9
 chauffeurless,fra,French,Latin,13
 chaunk,hin,Hindi,Other,6
 chauvinism,fra,French,Latin,10
-chaverim,heb,Hebrew,Germanic,8
+chaverim,heb,Hebrew,Other,8
 chayote,spa,Spanish; Castilian,Latin,7
 chazzer,yid,Yiddish,Germanic,7
 che sara sara,ita,Italian,Latin,13
-cheder,heb,Hebrew,Germanic,6
+cheder,heb,Hebrew,Other,6
 chedi,tha,Thai,Other,5
 cheechako,chn,Chinook jargon,Other,9
 cheer,xno,Anglo-Norman,Germanic,5
@@ -5701,7 +5701,7 @@ cherimoyer,fra,French,Latin,10
 chernozem,rus,Russian,Other,9
 cherogril,lat,Latin,Latin,9
 chersonese,lat,Latin,Latin,10
-cherubim,heb,Hebrew,Germanic,8
+cherubim,heb,Hebrew,Other,8
 chervonets,rus,Russian,Other,10
 chesterlite,lat,Latin,Latin,11
 chevauchée,fra,French,Latin,10
@@ -5797,7 +5797,7 @@ chuckwalla,spa,Spanish; Castilian,Latin,10
 chullo,que,Quechua,Other,6
 chunam,tam,Tamil,Other,6
 chupacabras,spa,Spanish; Castilian,Latin,11
-chuppah,heb,Hebrew,Germanic,7
+chuppah,heb,Hebrew,Other,7
 churro,spa,Spanish; Castilian,Latin,6
 chute,fra,French,Latin,5
 chutelike,fra,French,Latin,9
@@ -7385,7 +7385,7 @@ dacha,rus,Russian,Other,5
 dacite,deu,German,Germanic,6
 daedal,lat,Latin,Latin,6
 daeva,ave,Avestan,Other,5
-dagesh,heb,Hebrew,Germanic,6
+dagesh,heb,Hebrew,Other,6
 daimon,lat,Latin,Latin,6
 daimyo,jpn,Japanese,Japanese,6
 dakuten,jpn,Japanese,Japanese,7
@@ -8442,7 +8442,7 @@ ductlike,lat,Latin,Latin,8
 ductule,lat,Latin,Latin,7
 dudukahar,hye,Armenian,Other,9
 duel,lat,Latin,Latin,4
-dugnad,nor,Norwegian,Other,6
+dugnad,nor,Norwegian,Germanic,6
 dugong,tgl,Tagalog,Other,6
 duka,swa,Swahili,Other,4
 dukkah,ara,Arabic,Arabic,6
@@ -8452,7 +8452,7 @@ dulciloquy,lat,Latin,Latin,10
 dulcite,lat,Latin,Latin,7
 dulcoration,lat,Latin,Latin,11
 dulia,lat,Latin,Latin,5
-dulocracy,ell,Modern Greek,Greek,9
+dulocracy,ell,Modern Greek,Other,9
 dulse,gle,Irish,Other,5
 duma,rus,Russian,Other,4
 dumka,ukr,Ukrainian,Other,5
@@ -8953,10 +8953,10 @@ epaulement,fra,French,Latin,10
 epaulette,fra,French,Latin,9
 epazote,spa,Spanish; Castilian,Latin,7
 epee,fra,French,Latin,4
-ephah,heb,Hebrew,Germanic,5
+ephah,heb,Hebrew,Other,5
 ephemeral,lat,Latin,Latin,9
 ephemerally,lat,Latin,Latin,11
-epiboly,ell,Modern Greek,Greek,7
+epiboly,ell,Modern Greek,Other,7
 epic,lat,Latin,Latin,4
 epicede,lat,Latin,Latin,7
 epiclike,lat,Latin,Latin,8
@@ -9078,7 +9078,7 @@ eruditeness,lat,Latin,Latin,11
 erudition,lat,Latin,Latin,9
 erumpent,lat,Latin,Latin,8
 erupt,lat,Latin,Latin,5
-eruv,heb,Hebrew,Germanic,4
+eruv,heb,Hebrew,Other,4
 erythrogranulose,lat,Latin,Latin,16
 erythroleukemia,deu,German,Germanic,15
 esca,lat,Latin,Latin,4
@@ -9556,7 +9556,7 @@ fait accompli,fra,French,Latin,13
 faitheist,fra,French,Latin,9
 faitour,xno,Anglo-Norman,Germanic,7
 fajr,ara,Arabic,Arabic,4
-fakelaki,ell,Modern Greek,Greek,8
+fakelaki,ell,Modern Greek,Other,8
 fakir,ara,Arabic,Arabic,5
 falafel,ara,Arabic,Arabic,7
 falcated,lat,Latin,Latin,8
@@ -9836,7 +9836,7 @@ financier,fra,French,Latin,9
 finito,ita,Italian,Latin,6
 fino,spa,Spanish; Castilian,Latin,4
 finook,ita,Italian,Latin,6
-fiord,nor,Norwegian,Other,5
+fiord,nor,Norwegian,Germanic,5
 fioritura,ita,Italian,Latin,9
 firebomb,fra,French,Latin,8
 firefox,cmn,Mandarin Chinese,Other,7
@@ -9855,8 +9855,8 @@ fissionlike,lat,Latin,Latin,11
 fistula,lat,Latin,Latin,7
 fistuliform,lat,Latin,Latin,11
 fistulose,lat,Latin,Latin,9
-fjord,nor,Norwegian,Other,5
-fjordlike,nor,Norwegian,Other,9
+fjord,nor,Norwegian,Germanic,5
+fjordlike,nor,Norwegian,Germanic,9
 flabile,lat,Latin,Latin,7
 flaccid,lat,Latin,Latin,7
 flaccify,lat,Latin,Latin,8
@@ -9891,7 +9891,7 @@ flexor,lat,Latin,Latin,6
 flexuous,lat,Latin,Latin,8
 flexuously,lat,Latin,Latin,10
 flexuousness,lat,Latin,Latin,12
-flokati,ell,Modern Greek,Greek,7
+flokati,ell,Modern Greek,Other,7
 flong,fra,French,Latin,5
 flora,lat,Latin,Latin,5
 floramour,lat,Latin,Latin,9
@@ -9944,7 +9944,7 @@ fondue,fra,French,Latin,6
 fonduer,fra,French,Latin,7
 foofooraw,fra,French,Latin,9
 foosball,deu,German,Germanic,8
-footbath,heb,Hebrew,Germanic,8
+footbath,heb,Hebrew,Other,8
 foramen,lat,Latin,Latin,7
 foraminated,lat,Latin,Latin,11
 forasmuch,lat,Latin,Latin,9
@@ -10155,7 +10155,7 @@ futurism,lat,Latin,Latin,8
 futuristic,lat,Latin,Latin,10
 féerie,fra,French,Latin,6
 félibre,fra,French,Latin,7
-gabbai,heb,Hebrew,Germanic,6
+gabbai,heb,Hebrew,Other,6
 gabbro,ita,Italian,Latin,6
 gabbroid,ita,Italian,Latin,8
 gabel,fra,French,Latin,5
@@ -10170,7 +10170,7 @@ gadroon,fra,French,Latin,7
 gaffe,fra,French,Latin,5
 gaiety,fra,French,Latin,6
 galactico,spa,Spanish; Castilian,Latin,9
-galaktoboureko,ell,Modern Greek,Greek,14
+galaktoboureko,ell,Modern Greek,Other,14
 galbanum,lat,Latin,Latin,8
 galbe,fra,French,Latin,5
 galbulus,lat,Latin,Latin,8
@@ -10351,13 +10351,13 @@ georgic,lat,Latin,Latin,7
 geospace,xno,Anglo-Norman,Germanic,8
 geosurveillance,fra,French,Latin,15
 geothermometer,fra,French,Latin,14
-ger,heb,Hebrew,Germanic,3
+ger,heb,Hebrew,Other,3
 gerant,fra,French,Latin,6
 gerbil,fra,French,Latin,6
 gerbille,fra,French,Latin,8
-gerim,heb,Hebrew,Germanic,5
+gerim,heb,Hebrew,Other,5
 germen,lat,Latin,Latin,6
-gershayim,heb,Hebrew,Germanic,9
+gershayim,heb,Hebrew,Other,9
 gerund,lat,Latin,Latin,6
 gerundive,lat,Latin,Latin,9
 gerundively,lat,Latin,Latin,11
@@ -10401,7 +10401,7 @@ gipser,fra,French,Latin,6
 giraffe,fra,French,Latin,7
 giraffelike,fra,French,Latin,11
 girandole,fra,French,Latin,9
-giros,ell,Modern Greek,Greek,5
+giros,ell,Modern Greek,Other,5
 girsha,gle,Irish,Other,6
 girya,rus,Russian,Other,5
 gisarme,fra,French,Latin,7
@@ -10493,7 +10493,7 @@ gokkun,jpn,Japanese,Japanese,6
 golabki,pol,Polish,Other,7
 goldbrick,fra,French,Latin,9
 goldbricker,fra,French,Latin,11
-golem,heb,Hebrew,Germanic,5
+golem,heb,Hebrew,Other,5
 golubtsy,rus,Russian,Other,8
 gombeen,gle,Irish,Other,7
 gommelin,fra,French,Latin,8
@@ -10502,7 +10502,7 @@ gonfalon,ita,Italian,Latin,8
 goniolatry,lat,Latin,Latin,10
 goniolens,lat,Latin,Latin,9
 goniometric,fra,French,Latin,11
-gonoph,heb,Hebrew,Germanic,6
+gonoph,heb,Hebrew,Other,6
 goober,kon,Kongo,Other,6
 goomah,ita,Italian,Latin,6
 gopura,san,Sanskrit,Other,6
@@ -10747,7 +10747,7 @@ gyre,lat,Latin,Latin,4
 gyreful,lat,Latin,Latin,7
 gyroelectric,lat,Latin,Latin,12
 gyronny,fra,French,Latin,7
-gyros,ell,Modern Greek,Greek,5
+gyros,ell,Modern Greek,Other,5
 gyrosonic,lat,Latin,Latin,9
 gyrus,lat,Latin,Latin,5
 gîte,fra,French,Latin,4
@@ -10776,7 +10776,7 @@ hajib,ara,Arabic,Arabic,5
 hajj,ara,Arabic,Arabic,4
 hakama,jpn,Japanese,Japanese,6
 hakim,ara,Arabic,Arabic,5
-halachic,heb,Hebrew,Germanic,8
+halachic,heb,Hebrew,Other,8
 halal,ara,Arabic,Arabic,5
 halant,hin,Hindi,Other,6
 halaqa,ara,Arabic,Arabic,6
@@ -10785,8 +10785,8 @@ halau,haw,Hawaiian,Other,5
 halcyon,lat,Latin,Latin,7
 halcyon days,lat,Latin,Latin,12
 halitosis,lat,Latin,Latin,9
-hallelujah,heb,Hebrew,Germanic,10
-halloumi,ell,Modern Greek,Greek,8
+hallelujah,heb,Hebrew,Other,10
+halloumi,ell,Modern Greek,Other,8
 hallucinate,lat,Latin,Latin,11
 hallucinator,lat,Latin,Latin,12
 halo,lat,Latin,Latin,4
@@ -10845,7 +10845,7 @@ harlequinade,fra,French,Latin,12
 harness,xno,Anglo-Norman,Germanic,7
 harnessable,xno,Anglo-Norman,Germanic,11
 harnesslike,xno,Anglo-Norman,Germanic,11
-haroseth,heb,Hebrew,Germanic,8
+haroseth,heb,Hebrew,Other,8
 harpsichord,lat,Latin,Latin,11
 harpsichordist,lat,Latin,Latin,14
 harpsichordlike,lat,Latin,Latin,15
@@ -10875,13 +10875,13 @@ hebephile,lat,Latin,Latin,9
 hebete,lat,Latin,Latin,6
 hebetude,lat,Latin,Latin,8
 hecatomb,lat,Latin,Latin,8
-hechsher,heb,Hebrew,Germanic,8
+hechsher,heb,Hebrew,Other,8
 hectare,fra,French,Latin,7
 hectogram,fra,French,Latin,9
 hectometre,fra,French,Latin,10
 hectopascal,lat,Latin,Latin,11
 hectostere,fra,French,Latin,10
-heder,heb,Hebrew,Germanic,5
+heder,heb,Hebrew,Other,5
 hederaceous,lat,Latin,Latin,11
 heiau,haw,Hawaiian,Other,5
 heldentenor,deu,German,Germanic,11
@@ -10892,7 +10892,7 @@ helijet,fra,French,Latin,7
 heliogravure,fra,French,Latin,12
 heliolatitude,fra,French,Latin,13
 heliolatry,lat,Latin,Latin,10
-heliski,nor,Norwegian,Other,7
+heliski,nor,Norwegian,Germanic,7
 helium,lat,Latin,Latin,6
 heliumlike,lat,Latin,Latin,10
 helix,lat,Latin,Latin,5
@@ -12635,7 +12635,7 @@ itinerantly,lat,Latin,Latin,11
 itinerary,lat,Latin,Latin,9
 iwan,fas,Persian,Other,4
 izba,rus,Russian,Other,4
-izmel,heb,Hebrew,Germanic,5
+izmel,heb,Hebrew,Other,5
 izori,jpn,Japanese,Japanese,5
 jabot,fra,French,Latin,5
 jaboticaba,por,Portuguese,Latin,10
@@ -12720,11 +12720,11 @@ jivanmukta,san,Sanskrit,Other,10
 jizya,ara,Arabic,Arabic,5
 jnana,san,Sanskrit,Other,5
 jo,sco,Scots,Other,2
-jobbie,heb,Hebrew,Germanic,6
-jobless,heb,Hebrew,Germanic,7
-joblike,heb,Hebrew,Germanic,7
-jobname,heb,Hebrew,Germanic,7
-jobseeking,heb,Hebrew,Germanic,10
+jobbie,heb,Hebrew,Other,6
+jobless,heb,Hebrew,Other,7
+joblike,heb,Hebrew,Other,7
+jobname,heb,Hebrew,Other,7
+jobseeking,heb,Hebrew,Other,10
 jocose,lat,Latin,Latin,6
 jocosely,lat,Latin,Latin,8
 jocote,spa,Spanish; Castilian,Latin,6
@@ -12823,7 +12823,7 @@ ka,egy,Egyptian (Ancient),Other,2
 kabaka,lug,Ganda,Other,6
 kabocha,jpn,Japanese,Japanese,7
 kaboom,nld,Dutch;Flemish,Germanic,6
-kaddish,heb,Hebrew,Germanic,7
+kaddish,heb,Hebrew,Other,7
 kagok,kor,Korean,Other,5
 kaibun,jpn,Japanese,Japanese,6
 kainahineri,jpn,Japanese,Japanese,11
@@ -12869,9 +12869,9 @@ karyoevolution,lat,Latin,Latin,14
 karyolymph,lat,Latin,Latin,10
 karyotype,rus,Russian,Other,9
 kashida,fas,Persian,Other,7
-kashrut,heb,Hebrew,Germanic,7
+kashrut,heb,Hebrew,Other,7
 kasra,ara,Arabic,Arabic,5
-kasseri,ell,Modern Greek,Greek,7
+kasseri,ell,Modern Greek,Other,7
 kast,nld,Dutch;Flemish,Germanic,4
 kastom,tpi,Tok Pisin,Other,6
 katakana,jpn,Japanese,Japanese,8
@@ -12893,7 +12893,7 @@ kebab,tur,Turkish,Other,5
 kebaya,ara,Arabic,Arabic,6
 keema,hin,Hindi,Other,5
 keffiyeh,ara,Arabic,Arabic,8
-kehillah,heb,Hebrew,Germanic,8
+kehillah,heb,Hebrew,Other,8
 keiretsu,jpn,Japanese,Japanese,8
 keirin,jpn,Japanese,Japanese,6
 kekaeshi,jpn,Japanese,Japanese,8
@@ -12906,7 +12906,7 @@ kepi,fra,French,Latin,4
 kesa,san,Sanskrit,Other,4
 ketaguri,jpn,Japanese,Japanese,8
 ketone,deu,German,Germanic,6
-ketubah,heb,Hebrew,Germanic,7
+ketubah,heb,Hebrew,Other,7
 keycode,fra,French,Latin,7
 keytar,spa,Spanish; Castilian,Latin,6
 keytarist,spa,Spanish; Castilian,Latin,9
@@ -12922,11 +12922,11 @@ khud,hin,Hindi,Other,4
 ki,haw,Hawaiian,Other,2
 kibbeh,ara,Arabic,Arabic,6
 kibble,deu,German,Germanic,6
-kibbutz,heb,Hebrew,Germanic,7
+kibbutz,heb,Hebrew,Other,7
 kibitka,rus,Russian,Other,7
 kibitz,yid,Yiddish,Germanic,6
 kiddhoge,gle,Irish,Other,8
-kiddush,heb,Hebrew,Germanic,7
+kiddush,heb,Hebrew,Other,7
 kidult,fra,French,Latin,6
 kidulthood,fra,French,Latin,10
 kielbasa,pol,Polish,Other,8
@@ -12953,7 +12953,7 @@ kinkajou,fra,French,Latin,8
 kiosk,fra,French,Latin,5
 kiosklike,fra,French,Latin,9
 kipfel,deu,German,Germanic,6
-kippah,heb,Hebrew,Germanic,6
+kippah,heb,Hebrew,Other,6
 kir,fra,French,Latin,3
 kirigami,jpn,Japanese,Japanese,8
 kirikaeshi,jpn,Japanese,Japanese,10
@@ -13009,7 +13009,7 @@ kotehineri,jpn,Japanese,Japanese,10
 kotenage,jpn,Japanese,Japanese,8
 koto,jpn,Japanese,Japanese,4
 kotolike,jpn,Japanese,Japanese,8
-koulouri,ell,Modern Greek,Greek,8
+koulouri,ell,Modern Greek,Other,8
 kovsh,rus,Russian,Other,5
 krai,rus,Russian,Other,4
 krait,hin,Hindi,Other,5
@@ -13021,7 +13021,7 @@ krill,nld,Dutch;Flemish,Germanic,5
 kris,msa,Malay,Other,4
 kriya,san,Sanskrit,Other,5
 krotovina,rus,Russian,Other,9
-krumkake,nor,Norwegian,Other,8
+krumkake,nor,Norwegian,Germanic,8
 krupuk,ind,Indonesian,Other,6
 ksar,ara,Arabic,Arabic,4
 kshatriya,hin,Hindi,Other,9
@@ -13055,7 +13055,7 @@ kyloe,gla,Gaelic; Scottish Gaelic,Germanic,5
 kyudo,jpn,Japanese,Japanese,5
 kyūjitai,jpn,Japanese,Japanese,8
 laager,nld,Dutch;Flemish,Germanic,6
-labanotation,heb,Hebrew,Germanic,12
+labanotation,heb,Hebrew,Other,12
 labarum,lat,Latin,Latin,7
 labdane,lat,Latin,Latin,7
 labdanum,lat,Latin,Latin,8
@@ -13412,7 +13412,7 @@ lingula,lat,Latin,Latin,7
 liniment,lat,Latin,Latin,8
 links,sco,Scots,Other,5
 linksman,sco,Scots,Other,8
-linnorm,nor,Norwegian,Other,7
+linnorm,nor,Norwegian,Germanic,7
 lipocyte,lat,Latin,Latin,8
 lipophile,lat,Latin,Latin,9
 lipotoxic,fra,French,Latin,9
@@ -13500,7 +13500,7 @@ longe,fra,French,Latin,5
 longkang,msa,Malay,Other,8
 longueur,fra,French,Latin,8
 loofah,ara,Arabic,Arabic,6
-loppet,nor,Norwegian,Other,6
+loppet,nor,Norwegian,Germanic,6
 loquacious,lat,Latin,Latin,10
 loquaciously,lat,Latin,Latin,12
 lorate,lat,Latin,Latin,6
@@ -13518,7 +13518,7 @@ lotus,lat,Latin,Latin,5
 louche,fra,French,Latin,6
 loucheness,fra,French,Latin,10
 lough,gle,Irish,Other,5
-loukoumi,ell,Modern Greek,Greek,8
+loukoumi,ell,Modern Greek,Other,8
 lovage,xno,Anglo-Norman,Germanic,6
 lox,yid,Yiddish,Germanic,3
 loxodromic,fra,French,Latin,10
@@ -13681,7 +13681,7 @@ mafoo,cmn,Mandarin Chinese,Other,5
 magalogue,lat,Latin,Latin,9
 mage,lat,Latin,Latin,4
 magery,lat,Latin,Latin,6
-maggid,heb,Hebrew,Germanic,6
+maggid,heb,Hebrew,Other,6
 magister,lat,Latin,Latin,8
 magisterial,lat,Latin,Latin,11
 magisterialness,lat,Latin,Latin,15
@@ -13791,7 +13791,7 @@ mammonish,lat,Latin,Latin,9
 mammonism,lat,Latin,Latin,9
 mammothrept,lat,Latin,Latin,11
 mamo,haw,Hawaiian,Other,4
-mamzer,heb,Hebrew,Germanic,6
+mamzer,heb,Hebrew,Other,6
 man date,fra,French,Latin,8
 manas,san,Sanskrit,Other,5
 manat,rus,Russian,Other,5
@@ -13850,7 +13850,7 @@ manometer,fra,French,Latin,9
 manque,fra,French,Latin,6
 manteau,fra,French,Latin,7
 manti,tur,Turkish,Other,5
-mantinada,ell,Modern Greek,Greek,9
+mantinada,ell,Modern Greek,Other,9
 mantissa,lat,Latin,Latin,8
 mantou,cmn,Mandarin Chinese,Other,6
 mantra,san,Sanskrit,Other,6
@@ -13962,7 +13962,7 @@ matrona,lat,Latin,Latin,7
 matryoshka,rus,Russian,Other,10
 matsutake,jpn,Japanese,Japanese,9
 matutinal,lat,Latin,Latin,9
-matzo,heb,Hebrew,Germanic,5
+matzo,heb,Hebrew,Other,5
 matzoon,hye,Armenian,Other,7
 maté,spa,Spanish; Castilian,Latin,4
 maulana,ara,Arabic,Arabic,7
@@ -14060,7 +14060,7 @@ megastudio,ita,Italian,Latin,10
 megasuccessful,lat,Latin,Latin,14
 megatog,lat,Latin,Latin,7
 megerg,fra,French,Latin,6
-megillah,heb,Hebrew,Germanic,8
+megillah,heb,Hebrew,Other,8
 megrim,fra,French,Latin,6
 mehmandar,fas,Persian,Other,9
 meid,afr,Afrikaans,Germanic,4
@@ -14081,7 +14081,7 @@ mellifluous,lat,Latin,Latin,11
 melligenous,lat,Latin,Latin,11
 melliloquent,lat,Latin,Latin,12
 melodrama,fra,French,Latin,9
-melomakarona,ell,Modern Greek,Greek,12
+melomakarona,ell,Modern Greek,Other,12
 melongene,fra,French,Latin,9
 mem,phn,Phoenician,Other,3
 membranaceous,lat,Latin,Latin,13
@@ -14117,7 +14117,7 @@ meningococcal,lat,Latin,Latin,13
 meningococcus,lat,Latin,Latin,13
 menopause,lat,Latin,Latin,9
 menoporsche,deu,German,Germanic,11
-menorah,heb,Hebrew,Germanic,7
+menorah,heb,Hebrew,Other,7
 menpo,jpn,Japanese,Japanese,5
 menseless,sco,Scots,Other,9
 menses,lat,Latin,Latin,6
@@ -14257,7 +14257,7 @@ metropolitan,lat,Latin,Latin,12
 metropolitanate,lat,Latin,Latin,15
 metropolitanism,lat,Latin,Latin,15
 metœcus,lat,Latin,Latin,7
-meze,ell,Modern Greek,Greek,4
+meze,ell,Modern Greek,Other,4
 mezereon,ara,Arabic,Arabic,8
 mezzaluna,ita,Italian,Latin,9
 mezzanine,ita,Italian,Latin,9
@@ -14375,7 +14375,7 @@ mignonette,fra,French,Latin,10
 migratable,lat,Latin,Latin,10
 migrate,lat,Latin,Latin,7
 mihrab,ara,Arabic,Arabic,6
-mikveh,heb,Hebrew,Germanic,6
+mikveh,heb,Hebrew,Other,6
 miliary,lat,Latin,Latin,7
 milieu,fra,French,Latin,6
 militant,lat,Latin,Latin,8
@@ -14468,7 +14468,7 @@ minuet,fra,French,Latin,6
 minuetlike,fra,French,Latin,10
 minuscule,fra,French,Latin,9
 minusculely,fra,French,Latin,11
-minyan,heb,Hebrew,Germanic,6
+minyan,heb,Hebrew,Other,6
 miquelet,spa,Spanish; Castilian,Latin,8
 mirable,lat,Latin,Latin,7
 mirach,lat,Latin,Latin,6
@@ -14586,7 +14586,7 @@ mitigant,lat,Latin,Latin,8
 mitosis,deu,German,Germanic,7
 mitraillade,fra,French,Latin,11
 mittimus,lat,Latin,Latin,8
-mitzvah,heb,Hebrew,Germanic,7
+mitzvah,heb,Hebrew,Other,7
 mixoscopy,deu,German,Germanic,9
 mixtion,fra,French,Latin,7
 mizuame,jpn,Japanese,Japanese,7
@@ -14698,7 +14698,7 @@ monopolylike,lat,Latin,Latin,12
 monopsychism,lat,Latin,Latin,12
 monopteros,lat,Latin,Latin,10
 monoptote,lat,Latin,Latin,9
-monoski,nor,Norwegian,Other,7
+monoski,nor,Norwegian,Germanic,7
 monospecies,lat,Latin,Latin,11
 monospherical,lat,Latin,Latin,13
 monostratal,lat,Latin,Latin,11
@@ -14796,8 +14796,8 @@ mortifier,xno,Anglo-Norman,Germanic,9
 mortify,xno,Anglo-Norman,Germanic,7
 mortmain,xno,Anglo-Norman,Germanic,8
 mortuary,xno,Anglo-Norman,Germanic,8
-moshav,heb,Hebrew,Germanic,6
-moshava,heb,Hebrew,Germanic,7
+moshav,heb,Hebrew,Other,6
+moshava,heb,Hebrew,Other,7
 mosk,fra,French,Latin,4
 mosque,fra,French,Latin,6
 mosqueless,fra,French,Latin,10
@@ -14831,7 +14831,7 @@ mouflon,fra,French,Latin,7
 moulin,fra,French,Latin,6
 mountain buzzard,fra,French,Latin,16
 mousmé,jpn,Japanese,Japanese,6
-moussaka,ell,Modern Greek,Greek,8
+moussaka,ell,Modern Greek,Other,8
 mousse,fra,French,Latin,6
 mousselike,fra,French,Latin,10
 mousseux,fra,French,Latin,8
@@ -15453,7 +15453,7 @@ nigrosine,lat,Latin,Latin,9
 nihilate,lat,Latin,Latin,8
 nihilation,lat,Latin,Latin,10
 nihilism,deu,German,Germanic,8
-nikud,heb,Hebrew,Germanic,5
+nikud,heb,Hebrew,Other,5
 nil,lat,Latin,Latin,3
 niladic,lat,Latin,Latin,7
 nimaigeri,jpn,Japanese,Japanese,9
@@ -16824,7 +16824,7 @@ ombudsman,swe,Swedish,Germanic,9
 ombudsmanship,swe,Swedish,Germanic,13
 omelette,fra,French,Latin,8
 omen,lat,Latin,Latin,4
-omer,heb,Hebrew,Germanic,4
+omer,heb,Hebrew,Other,4
 omertà,ita,Italian,Latin,6
 ominate,lat,Latin,Latin,7
 omination,lat,Latin,Latin,9
@@ -17093,7 +17093,7 @@ outsoar,fra,French,Latin,7
 outtell,ara,Arabic,Arabic,7
 ouvert,fra,French,Latin,6
 ouvrierism,fra,French,Latin,10
-ouzo,ell,Modern Greek,Greek,4
+ouzo,ell,Modern Greek,Other,4
 ovalbumin,lat,Latin,Latin,9
 ovate,lat,Latin,Latin,5
 ovately,lat,Latin,Latin,7
@@ -17106,7 +17106,7 @@ overanalysis,lat,Latin,Latin,12
 overanxiety,lat,Latin,Latin,11
 overapproximate,lat,Latin,Latin,15
 overattachment,fra,French,Latin,14
-overbet,heb,Hebrew,Germanic,7
+overbet,heb,Hebrew,Other,7
 overbust,fra,French,Latin,8
 overcalculate,lat,Latin,Latin,13
 overcapable,lat,Latin,Latin,11
@@ -17491,7 +17491,7 @@ paronomasia,lat,Latin,Latin,11
 paronychia,lat,Latin,Latin,10
 paroxysm,fra,French,Latin,8
 parrel,fra,French,Latin,6
-parsa,heb,Hebrew,Germanic,5
+parsa,heb,Hebrew,Other,5
 parti,fra,French,Latin,5
 parti pris,fra,French,Latin,10
 partible,lat,Latin,Latin,8
@@ -17617,7 +17617,7 @@ paxillus,lat,Latin,Latin,8
 paygrade,fra,French,Latin,8
 payndemain,lat,Latin,Latin,10
 paynim,xno,Anglo-Norman,Germanic,6
-payot,heb,Hebrew,Germanic,5
+payot,heb,Hebrew,Other,5
 peaceable,xno,Anglo-Norman,Germanic,9
 pearl,fra,French,Latin,5
 pearlaceous,fra,French,Latin,11
@@ -17893,7 +17893,7 @@ pervicaciousness,lat,Latin,Latin,16
 pervicacy,lat,Latin,Latin,9
 pervigilation,lat,Latin,Latin,13
 pesewa,twi,Twi,Other,6
-pesher,heb,Hebrew,Germanic,6
+pesher,heb,Hebrew,Other,6
 pessimism,lat,Latin,Latin,9
 pestilation,lat,Latin,Latin,11
 petameter,fra,French,Latin,9
@@ -17920,7 +17920,7 @@ phalera,lat,Latin,Latin,7
 phallus,lat,Latin,Latin,7
 phalluslike,lat,Latin,Latin,11
 phantasmatical,lat,Latin,Latin,14
-pharisaic,heb,Hebrew,Germanic,9
+pharisaic,heb,Hebrew,Other,9
 pharmacodiagnosis,lat,Latin,Latin,17
 pharmacopolist,lat,Latin,Latin,14
 pharmacoresistant,fra,French,Latin,17
@@ -17996,7 +17996,7 @@ phthisical,lat,Latin,Latin,10
 phthisis,lat,Latin,Latin,8
 phycotoxin,lat,Latin,Latin,10
 phylarch,lat,Latin,Latin,8
-phyllo,ell,Modern Greek,Greek,6
+phyllo,ell,Modern Greek,Other,6
 phyllocyst,lat,Latin,Latin,10
 phyllomorphosis,lat,Latin,Latin,15
 phylodynamic,fra,French,Latin,12
@@ -18429,7 +18429,7 @@ portière,fra,French,Latin,8
 portlet,lat,Latin,Latin,7
 portmanteau,fra,French,Latin,11
 portyanki,rus,Russian,Other,9
-posek,heb,Hebrew,Germanic,5
+posek,heb,Hebrew,Other,5
 posit,lat,Latin,Latin,5
 position,fra,French,Latin,8
 positionable,fra,French,Latin,12
@@ -19792,7 +19792,7 @@ rebandage,fra,French,Latin,9
 rebarbative,fra,French,Latin,11
 rebbetzin,yid,Yiddish,Germanic,9
 rebec,fra,French,Latin,5
-rebetiko,ell,Modern Greek,Greek,8
+rebetiko,ell,Modern Greek,Other,8
 rebiopsy,fra,French,Latin,8
 rebrick,fra,French,Latin,7
 rebus,fra,French,Latin,5
@@ -19939,7 +19939,7 @@ reduvid,lat,Latin,Latin,7
 redux,lat,Latin,Latin,5
 reelect,lat,Latin,Latin,7
 reelection,xno,Anglo-Norman,Germanic,10
-reem,heb,Hebrew,Germanic,4
+reem,heb,Hebrew,Other,4
 reendow,xno,Anglo-Norman,Germanic,7
 reengagement,fra,French,Latin,12
 reequip,fra,French,Latin,7
@@ -20338,7 +20338,7 @@ retronasal,lat,Latin,Latin,10
 retrospect,lat,Latin,Latin,10
 retrotranscript,lat,Latin,Latin,15
 retrovaccination,lat,Latin,Latin,16
-retsina,ell,Modern Greek,Greek,7
+retsina,ell,Modern Greek,Other,7
 retund,lat,Latin,Latin,6
 reupdate,fra,French,Latin,8
 reurge,lat,Latin,Latin,6
@@ -20501,7 +20501,7 @@ roric,lat,Latin,Latin,5
 rorid,lat,Latin,Latin,5
 roriferous,lat,Latin,Latin,10
 rorifluent,lat,Latin,Latin,10
-rorqual,nor,Norwegian,Other,7
+rorqual,nor,Norwegian,Germanic,7
 rory,lat,Latin,Latin,4
 roscid,lat,Latin,Latin,6
 rosetta,ita,Italian,Latin,7
@@ -20542,7 +20542,7 @@ rudraksha,san,Sanskrit,Other,9
 rufous,lat,Latin,Latin,6
 ruga,lat,Latin,Latin,4
 rugate,lat,Latin,Latin,6
-rugelach,heb,Hebrew,Germanic,8
+rugelach,heb,Hebrew,Other,8
 rumen,lat,Latin,Latin,5
 ruminant,lat,Latin,Latin,8
 ruminantly,lat,Latin,Latin,10
@@ -20606,7 +20606,7 @@ safari,swa,Swahili,Other,6
 safarigoer,swa,Swahili,Other,10
 safarilike,swa,Swahili,Other,10
 sagacity,fra,French,Latin,8
-saganaki,ell,Modern Greek,Greek,8
+saganaki,ell,Modern Greek,Other,8
 sagathy,fra,French,Latin,7
 sagenite,fra,French,Latin,8
 sagenitic,fra,French,Latin,9
@@ -20693,7 +20693,7 @@ sanctitude,lat,Latin,Latin,10
 sanctum,lat,Latin,Latin,7
 sanctum sanctorum,lat,Latin,Latin,17
 sandarac,lat,Latin,Latin,8
-sandek,heb,Hebrew,Germanic,6
+sandek,heb,Hebrew,Other,6
 sandhi,san,Sanskrit,Other,6
 sandix,lat,Latin,Latin,6
 sandpaper,xno,Anglo-Norman,Germanic,9
@@ -20971,7 +20971,7 @@ secureth,lat,Latin,Latin,8
 sedate,lat,Latin,Latin,6
 sedately,lat,Latin,Latin,8
 sedentary,lat,Latin,Latin,9
-seder,heb,Hebrew,Germanic,5
+seder,heb,Hebrew,Other,5
 sederunt,lat,Latin,Latin,8
 sediment,lat,Latin,Latin,8
 sedimentary,lat,Latin,Latin,11
@@ -21142,7 +21142,7 @@ separatist,lat,Latin,Latin,10
 separatistic,lat,Latin,Latin,12
 separative,lat,Latin,Latin,10
 separator,lat,Latin,Latin,9
-sephirah,heb,Hebrew,Germanic,8
+sephirah,heb,Hebrew,Other,8
 sepia,lat,Latin,Latin,5
 sepic,lat,Latin,Latin,5
 sepiment,lat,Latin,Latin,8
@@ -21285,8 +21285,8 @@ shakha,san,Sanskrit,Other,6
 shaku,jpn,Japanese,Japanese,5
 shallop,fra,French,Latin,7
 shallot,fra,French,Latin,7
-shalom,heb,Hebrew,Germanic,6
-shalom aleichem,heb,Hebrew,Germanic,15
+shalom,heb,Hebrew,Other,6
+shalom aleichem,heb,Hebrew,Other,15
 shaman,deu,German,Germanic,6
 shamanesque,deu,German,Germanic,11
 shamanism,deu,German,Germanic,9
@@ -21326,7 +21326,7 @@ shemozzle,yid,Yiddish,Germanic,9
 sherbet,tur,Turkish,Other,7
 sherbety,tur,Turkish,Other,8
 shiatsu,jpn,Japanese,Japanese,7
-shibboleth,heb,Hebrew,Germanic,10
+shibboleth,heb,Hebrew,Other,10
 shibori,jpn,Japanese,Japanese,7
 shiksa,yid,Yiddish,Germanic,6
 shikse,yid,Yiddish,Germanic,6
@@ -21344,14 +21344,14 @@ shiso,jpn,Japanese,Japanese,5
 shitatedashinage,jpn,Japanese,Japanese,16
 shitatehineri,jpn,Japanese,Japanese,13
 shitatenage,jpn,Japanese,Japanese,11
-shittah,heb,Hebrew,Germanic,7
-shiur,heb,Hebrew,Germanic,5
+shittah,heb,Hebrew,Other,7
+shiur,heb,Hebrew,Other,5
 shivaree,fra,French,Latin,8
 shlenter,afr,Afrikaans,Germanic,8
 shloka,san,Sanskrit,Other,6
 shlong,yid,Yiddish,Germanic,6
 sho,jpn,Japanese,Japanese,3
-shochet,heb,Hebrew,Germanic,7
+shochet,heb,Hebrew,Other,7
 shochu,jpn,Japanese,Japanese,6
 shogi,jpn,Japanese,Japanese,5
 shogun,jpn,Japanese,Japanese,6
@@ -21392,7 +21392,7 @@ siccity,lat,Latin,Latin,7
 sice,fra,French,Latin,4
 sicer,lat,Latin,Latin,5
 sicilienne,fra,French,Latin,10
-siddur,heb,Hebrew,Germanic,6
+siddur,heb,Hebrew,Other,6
 sideproduct,lat,Latin,Latin,11
 siderated,lat,Latin,Latin,9
 sidereal,lat,Latin,Latin,8
@@ -21485,19 +21485,19 @@ sketchily,nld,Dutch;Flemish,Germanic,9
 sketchiness,nld,Dutch;Flemish,Germanic,11
 sketchlike,nld,Dutch;Flemish,Germanic,10
 sketchy,nld,Dutch;Flemish,Germanic,7
-ski,nor,Norwegian,Other,3
-skiathon,nor,Norwegian,Other,8
-skijor,nor,Norwegian,Other,6
-skijorer,nor,Norwegian,Other,8
-skilike,nor,Norwegian,Other,7
-skimobile,nor,Norwegian,Other,9
+ski,nor,Norwegian,Germanic,3
+skiathon,nor,Norwegian,Germanic,8
+skijor,nor,Norwegian,Germanic,6
+skijorer,nor,Norwegian,Germanic,8
+skilike,nor,Norwegian,Germanic,7
+skimobile,nor,Norwegian,Germanic,9
 skink,lat,Latin,Latin,5
 skinker,lat,Latin,Latin,7
 skirtini,deu,German,Germanic,8
-skordalia,ell,Modern Greek,Greek,9
+skordalia,ell,Modern Greek,Other,9
 skosh,jpn,Japanese,Japanese,5
 skua,fao,Faroese,Other,4
-skurfing,nor,Norwegian,Other,8
+skurfing,nor,Norwegian,Germanic,8
 skybike,lat,Latin,Latin,7
 skycycle,lat,Latin,Latin,8
 skydome,lat,Latin,Latin,7
@@ -21574,7 +21574,7 @@ soda,ita,Italian,Latin,4
 sodaic,ita,Italian,Latin,6
 sodalike,ita,Italian,Latin,8
 sodomitic,lat,Latin,Latin,9
-sofer,heb,Hebrew,Germanic,5
+sofer,heb,Hebrew,Other,5
 soffit,fra,French,Latin,6
 sogo shosha,jpn,Japanese,Japanese,11
 soigné,fra,French,Latin,6
@@ -21611,7 +21611,7 @@ solvableness,lat,Latin,Latin,12
 solve,lat,Latin,Latin,5
 somatic,fra,French,Latin,7
 somatology,san,Sanskrit,Other,10
-somatophylax,ell,Modern Greek,Greek,12
+somatophylax,ell,Modern Greek,Other,12
 somber,fra,French,Latin,6
 somberly,fra,French,Latin,8
 somberness,fra,French,Latin,10
@@ -21620,7 +21620,7 @@ somen,jpn,Japanese,Japanese,5
 somite,san,Sanskrit,Other,6
 sommer,afr,Afrikaans,Germanic,6
 somniculous,lat,Latin,Latin,11
-son of the morning,heb,Hebrew,Germanic,18
+son of the morning,heb,Hebrew,Other,18
 sonata,ita,Italian,Latin,6
 sonatalike,ita,Italian,Latin,10
 sonatina,ita,Italian,Latin,8
@@ -21673,7 +21673,7 @@ sourdine,fra,French,Latin,8
 souterrain,fra,French,Latin,10
 soutie,afr,Afrikaans,Germanic,6
 souvenir,fra,French,Latin,8
-souvlaki,ell,Modern Greek,Greek,8
+souvlaki,ell,Modern Greek,Other,8
 sovereign,lat,Latin,Latin,9
 sovereignism,lat,Latin,Latin,12
 sovereignize,lat,Latin,Latin,12
@@ -22376,7 +22376,7 @@ suffocative,lat,Latin,Latin,11
 suffossion,lat,Latin,Latin,10
 suffragator,lat,Latin,Latin,11
 suffumige,lat,Latin,Latin,9
-sufganiyah,heb,Hebrew,Germanic,10
+sufganiyah,heb,Hebrew,Other,10
 sugan,gle,Irish,Other,5
 sugar pill,lat,Latin,Latin,10
 suget,lat,Latin,Latin,5
@@ -22387,7 +22387,7 @@ suggilate,lat,Latin,Latin,9
 suite,fra,French,Latin,5
 suitelike,fra,French,Latin,9
 sujuk,tur,Turkish,Other,5
-sukkah,heb,Hebrew,Germanic,6
+sukkah,heb,Hebrew,Other,6
 sukuinage,jpn,Japanese,Japanese,9
 sukun,ara,Arabic,Arabic,5
 sulphophosphorous,lat,Latin,Latin,17
@@ -22811,7 +22811,7 @@ tala,smo,Samoan,Other,4
 talalgia,lat,Latin,Latin,8
 talaria,lat,Latin,Latin,7
 taler,deu,German,Germanic,5
-tallit,heb,Hebrew,Germanic,6
+tallit,heb,Hebrew,Other,6
 talukdar,hin,Hindi,Other,8
 talus,fra,French,Latin,5
 talwege,deu,German,Germanic,7
@@ -22857,7 +22857,7 @@ tapiroid,fra,French,Latin,8
 tapiser,fra,French,Latin,7
 tapotement,fra,French,Latin,10
 taquito,spa,Spanish; Castilian,Latin,7
-taramosalata,ell,Modern Greek,Greek,12
+taramosalata,ell,Modern Greek,Other,12
 tarantass,rus,Russian,Other,9
 tarantella,ita,Italian,Latin,10
 tarbagan,rus,Russian,Other,8
@@ -22865,7 +22865,7 @@ tarboosh,ara,Arabic,Arabic,8
 tardation,lat,Latin,Latin,9
 tardigrade,lat,Latin,Latin,10
 tardigradous,lat,Latin,Latin,12
-targum,heb,Hebrew,Germanic,6
+targum,heb,Hebrew,Other,6
 tariff,ita,Italian,Latin,6
 tariqa,ara,Arabic,Arabic,6
 tarogato,hun,Hungarian,Other,8
@@ -22893,7 +22893,7 @@ taurine,lat,Latin,Latin,7
 tautologize,lat,Latin,Latin,11
 tautology,lat,Latin,Latin,9
 tautosyllabic,lat,Latin,Latin,13
-taverna,ell,Modern Greek,Greek,7
+taverna,ell,Modern Greek,Other,7
 tavla,tur,Turkish,Other,5
 tawhid,ara,Arabic,Arabic,6
 taxation,lat,Latin,Latin,8
@@ -23080,7 +23080,7 @@ terrifier,lat,Latin,Latin,9
 terrify,lat,Latin,Latin,7
 terrorist,fra,French,Latin,9
 tertium quid,lat,Latin,Latin,12
-teshuva,heb,Hebrew,Germanic,7
+teshuva,heb,Hebrew,Other,7
 tessitura,ita,Italian,Latin,9
 testaceous,lat,Latin,Latin,10
 testamental,lat,Latin,Latin,11
@@ -23640,7 +23640,7 @@ trope,lat,Latin,Latin,5
 tropic,lat,Latin,Latin,6
 tropical,lat,Latin,Latin,8
 tropist,lat,Latin,Latin,7
-tropology,ell,Modern Greek,Greek,9
+tropology,ell,Modern Greek,Other,9
 troposphere,fra,French,Latin,11
 tropospheric,fra,French,Latin,12
 tropospherically,fra,French,Latin,16
@@ -23666,8 +23666,8 @@ tsaritsa,rus,Russian,Other,8
 tsarlike,rus,Russian,Other,8
 tsatske,yid,Yiddish,Germanic,7
 tsetse,tsn,Tswana,Other,6
-tsipouro,ell,Modern Greek,Greek,8
-tsitsith,heb,Hebrew,Germanic,8
+tsipouro,ell,Modern Greek,Other,8
+tsitsith,heb,Hebrew,Other,8
 tsuba,jpn,Japanese,Japanese,5
 tsubo,jpn,Japanese,Japanese,5
 tsuga,jpn,Japanese,Japanese,5
@@ -23748,8 +23748,8 @@ typographer,fra,French,Latin,11
 typography,fra,French,Latin,10
 typomaniac,lat,Latin,Latin,10
 tyro,lat,Latin,Latin,4
-tzaddik,heb,Hebrew,Germanic,7
-tzedakah,heb,Hebrew,Germanic,8
+tzaddik,heb,Hebrew,Other,7
+tzedakah,heb,Hebrew,Other,8
 uber,deu,German,Germanic,4
 uberly,deu,German,Germanic,6
 uberous,lat,Latin,Latin,7
@@ -23955,7 +23955,7 @@ under the rose,lat,Latin,Latin,14
 underagent,lat,Latin,Latin,10
 underapproximate,lat,Latin,Latin,16
 underassistant,fra,French,Latin,14
-underbet,heb,Hebrew,Germanic,8
+underbet,heb,Hebrew,Other,8
 underbust,fra,French,Latin,9
 undercalculate,lat,Latin,Latin,14
 undercapitalization,lat,Latin,Latin,19
@@ -24522,7 +24522,7 @@ vatrushka,rus,Russian,Other,9
 vaunt,xno,Anglo-Norman,Germanic,5
 vauntful,xno,Anglo-Norman,Germanic,8
 vauntmure,fra,French,Latin,9
-vav,heb,Hebrew,Germanic,3
+vav,heb,Hebrew,Other,3
 vavasory,fra,French,Latin,8
 vavasour,fra,French,Latin,8
 vection,lat,Latin,Latin,7
@@ -24908,7 +24908,7 @@ voyeur,fra,French,Latin,6
 voyeurism,fra,French,Latin,9
 vozhd,rus,Russian,Other,5
 voël,afr,Afrikaans,Germanic,4
-vraka,ell,Modern Greek,Greek,5
+vraka,ell,Modern Greek,Other,5
 vrddhi,san,Sanskrit,Other,6
 vrddhied,san,Sanskrit,Other,8
 vrot,afr,Afrikaans,Germanic,4
@@ -25047,7 +25047,7 @@ xylemless,deu,German,Germanic,9
 xylemlike,deu,German,Germanic,9
 xyloplastic,lat,Latin,Latin,11
 xylotypography,fra,French,Latin,14
-xynisteri,ell,Modern Greek,Greek,9
+xynisteri,ell,Modern Greek,Other,9
 yacare,por,Portuguese,Latin,6
 yaguranage,jpn,Japanese,Japanese,10
 yahrzeit,yid,Yiddish,Germanic,8
@@ -25068,10 +25068,10 @@ yashmak,tur,Turkish,Other,7
 yashmaked,tur,Turkish,Other,9
 yatta,jpn,Japanese,Japanese,5
 yayo,spa,Spanish; Castilian,Latin,4
-yeaghe,nor,Norwegian,Other,6
+yeaghe,nor,Norwegian,Germanic,6
 yen,jpn,Japanese,Japanese,3
 yepperoni,ita,Italian,Latin,9
-yerida,heb,Hebrew,Germanic,6
+yerida,heb,Hebrew,Other,6
 yeshiva,yid,Yiddish,Germanic,7
 yewei,cmn,Mandarin Chinese,Other,5
 yirree,gle,Irish,Other,6
@@ -25149,7 +25149,7 @@ zigzaggery,deu,German,Germanic,10
 zikr,ara,Arabic,Arabic,4
 zilde,spa,Spanish; Castilian,Latin,5
 zill,tur,Turkish,Other,4
-zimzum,heb,Hebrew,Germanic,6
+zimzum,heb,Hebrew,Other,6
 zinc,deu,German,Germanic,4
 zincic,deu,German,Germanic,6
 zincide,deu,German,Germanic,7
@@ -25190,7 +25190,7 @@ zuchetto,ita,Italian,Latin,8
 zugzwang,deu,German,Germanic,8
 zulm,ara,Arabic,Arabic,4
 zurna,tur,Turkish,Other,5
-zuz,heb,Hebrew,Germanic,3
+zuz,heb,Hebrew,Other,3
 zwieback,deu,German,Germanic,8
 zygomatic,fra,French,Latin,9
 zymocidal,deu,German,Germanic,9
